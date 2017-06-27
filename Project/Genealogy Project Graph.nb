@@ -1,0 +1,362 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     14589,        352]
+NotebookOptionsPosition[     13703,        324]
+NotebookOutlinePosition[     14044,        339]
+CellTagsIndexPosition[     14001,        336]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+  "url", "=", "\"\<https://genealogy.math.ndsu.nodak.edu/id.php?id=\>\""}], 
+  ";"}]], "Input",
+ CellChangeTimes->{{3.707511230217066*^9, 
+  3.7075112427876644`*^9}},ExpressionUUID->"12d875fa-6764-4217-9ea3-\
+459a3e90bf40"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Import", "[", 
+  RowBox[{
+   RowBox[{"url", "<>", 
+    RowBox[{"ToString", "[", "145671", "]"}]}], ",", "\"\<Hyperlinks\>\""}], 
+  "]"}]], "Input",
+ CellChangeTimes->{{3.7075113252591276`*^9, 3.7075113401962657`*^9}, {
+   3.7075116672803288`*^9, 3.7075116674653296`*^9}, {3.707511923885637*^9, 
+   3.7075119294634356`*^9}, 
+   3.7075119685501995`*^9},ExpressionUUID->"9bb2b88d-cbfe-441b-9be4-\
+ee50b97f8f26"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"\<\"https://genealogy.math.ndsu.nodak.edu/index.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/index.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/search.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/extrema.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/about.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/mission.php\"\>", 
+   ",", "\<\"http://www.ams.org/notices/200708/tx070801002p.pdf\"\>", 
+   ",", "\<\"https://epayment.ndus.nodak.edu/C22800_ustores/web/product_\
+detail.jsp?PRODUCTID=2989&SINGLESTORE=true\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/news.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/staff.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/recognition.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/acknowledgments.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/links.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/faq.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/posters.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/submit.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/contact.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/mirrors.php\"\>", 
+   ",", "\<\"http://www.genealogy.math.ndsu.nodak.edu/\"\>", 
+   ",", "\<\"http://www.genealogy.ams.org/\"\>", 
+   ",", "\<\"http://www.math.uni-bielefeld.de/genealogy\"\>", 
+   ",", "\<\"http://genealogy.impa.br/\"\>", 
+   ",", "\<\"https://epayment.ndus.nodak.edu/C22800_ustores/web/product_\
+detail.jsp?PRODUCTID=2989&SINGLESTORE=true\"\>", 
+   ",", "\<\"https://www.ndsu.edu/\"\>", 
+   ",", "\<\"https://www.ndsu.edu/math/\"\>", 
+   ",", "\<\"http://www.ams.org/\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/id.php?id=145672\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/submit-data.php?id=145671&\
+edit=0\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/submit-data.php?id=NEW&\
+edit=0\"\>", ",", "\<\"https://genealogy.math.ndsu.nodak.edu/search.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/about.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/mission.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/news.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/staff.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/recognition.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/acknowledgments.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/links.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/faq.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/posters.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/submit.php\"\>", 
+   ",", "\<\"https://genealogy.math.ndsu.nodak.edu/contact.php\"\>", 
+   ",", "\<\"https://epayment.ndus.nodak.edu/C22800_ustores/web/product_\
+detail.jsp?PRODUCTID=2989&SINGLESTORE=true\"\>"}], "}"}]], "Output",
+ CellChangeTimes->{{3.7075113260440063`*^9, 3.7075113423604717`*^9}, 
+   3.7075116695652747`*^9, 3.707511931747503*^9, 
+   3.707511970468712*^9},ExpressionUUID->"99dde53f-e955-4b5e-9c60-\
+9456b262df85"]
+}, Open  ]],
+
+Cell[BoxData[
+ RowBox[{"Table", "[", "\[IndentingNewLine]", 
+  RowBox[{
+   RowBox[{
+    RowBox[{"hp", "=", 
+     RowBox[{"Import", "[", 
+      RowBox[{
+       RowBox[{"url", "<>", 
+        RowBox[{"ToString", "[", "id", "]"}]}], ",", "\"\<Hyperlinks\>\""}], 
+      "]"}]}], ";", 
+    RowBox[{"If", "[", 
+     RowBox[{
+      RowBox[{"!", 
+       RowBox[{"MemberQ", "[", 
+        RowBox[{"hp", ",", 
+         RowBox[{"\"\<https://genealogy.math.ndsu.nodak.edu/id.php?id=\>\"", "<>", 
+          RowBox[{"ToString", "[", "id", "]"}], "<>", 
+          "\"\<&fChrono=1\>\""}]}], "]"}]}], ",", 
+      RowBox[{"Missing", "[", "]"}], ",", 
+      RowBox[{
+       RowBox[{
+        RowBox[{"id", "\[Rule]", 
+         RowBox[{"ToExpression", "[", "#", "]"}]}], "&"}], "/@", 
+       RowBox[{"(", 
+        RowBox[{"Last", "/@", 
+         RowBox[{"(", 
+          RowBox[{
+           RowBox[{
+            RowBox[{"StringSplit", "[", 
+             RowBox[{"#", ",", "\"\<=\>\""}], "]"}], "&"}], "/@", 
+           RowBox[{"hp", "[", 
+            RowBox[{"[", 
+             RowBox[{
+              RowBox[{"(", 
+               RowBox[{
+                RowBox[{
+                 RowBox[{"Position", "[", 
+                  RowBox[{"hp", ",", 
+                   RowBox[{
+                   "\"\<https://genealogy.math.ndsu.nodak.edu/id.php?id=\>\"",
+                     "<>", 
+                    RowBox[{"ToString", "[", "id", "]"}], "<>", 
+                    "\"\<&fChrono=1\>\""}]}], "]"}], "[", 
+                 RowBox[{"[", 
+                  RowBox[{"1", ",", "1"}], "]"}], "]"}], "+", "1"}], ")"}], ";;", 
+              RowBox[{"-", "16"}]}], "]"}], "]"}]}], ")"}]}], ")"}]}]}], 
+     "]"}]}], ",", 
+   RowBox[{"{", 
+    RowBox[{"id", ",", "10"}], "}"}]}], "]"}]], "Input",
+ CellChangeTimes->{{3.7075112538032103`*^9, 3.7075113130726185`*^9}, {
+   3.707511355446529*^9, 3.70751136076729*^9}, {3.7075114138709197`*^9, 
+   3.7075114601674156`*^9}, {3.707511490601509*^9, 3.7075116134376097`*^9}, {
+   3.7075121578681026`*^9, 3.7075124206296396`*^9}, {3.707512487709237*^9, 
+   3.707512489646776*^9}, 3.7075126301378508`*^9, {3.707512782199998*^9, 
+   3.707512918317111*^9}, {3.7075129706494727`*^9, 
+   3.7075129837543764`*^9}},ExpressionUUID->"2817055f-7fd8-44a8-8ed1-\
+b2b386b3fe25"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"GraphPlot", "[", 
+  RowBox[{
+   RowBox[{"Flatten", "@", 
+    RowBox[{"DeleteMissing", "[", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"1", "\[Rule]", "11"}], ",", 
+         RowBox[{"1", "\[Rule]", "28"}], ",", 
+         RowBox[{"1", "\[Rule]", "31"}]}], "}"}], ",", 
+       RowBox[{"Missing", "[", "]"}], ",", 
+       RowBox[{"Missing", "[", "]"}], ",", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"4", "\[Rule]", "19930"}], ",", 
+         RowBox[{"4", "\[Rule]", "19939"}]}], "}"}], ",", 
+       RowBox[{"Missing", "[", "]"}], ",", 
+       RowBox[{"Missing", "[", "]"}], ",", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"7", "\[Rule]", "48"}], ",", 
+         RowBox[{"7", "\[Rule]", "104689"}], ",", 
+         RowBox[{"7", "\[Rule]", "38"}], ",", 
+         RowBox[{"7", "\[Rule]", "33"}], ",", 
+         RowBox[{"7", "\[Rule]", "3026"}], ",", 
+         RowBox[{"7", "\[Rule]", "39"}], ",", 
+         RowBox[{"7", "\[Rule]", "32"}], ",", 
+         RowBox[{"7", "\[Rule]", "35"}]}], "}"}], ",", 
+       RowBox[{"Missing", "[", "]"}], ",", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"9", "\[Rule]", "23"}], ",", 
+         RowBox[{"9", "\[Rule]", "28"}], ",", 
+         RowBox[{"9", "\[Rule]", "71"}], ",", 
+         RowBox[{"9", "\[Rule]", "101996"}], ",", 
+         RowBox[{"9", "\[Rule]", "87826"}]}], "}"}], ",", 
+       RowBox[{"Missing", "[", "]"}]}], "}"}], "]"}]}], ",", 
+   RowBox[{"VertexLabeling", "\[Rule]", "True"}], ",", 
+   RowBox[{"DirectedEdges", "\[Rule]", "True"}]}], "]"}]], "Input",
+ CellChangeTimes->{{3.70751300611753*^9, 3.707513047256285*^9}, {
+  3.7075131283440623`*^9, 3.707513138472029*^9}, {3.70751331468004*^9, 
+  3.707513316932732*^9}},ExpressionUUID->"124b8fad-744c-408c-b656-\
+f946fb75f21c"],
+
+Cell[BoxData[
+ GraphicsBox[
+  TagBox[GraphicsComplexBox[CompressedData["
+1:eJxTTMoPSmViYGAQBWIQ/aI76IS+2mf7V2wT9T4YfNl/QkZa4szOj/YNlrdX
+XEm/s//El6+siyP/2LccbV56u+Hnfqi4/YrJ1WD+n7UdZ/0+Czsov/gMVv8j
+WnD23Gf8DjD9EHlxh3RX1ZUgvtjeS4Laj77ab/Yxn/7DQujAftfQCymt7+21
+LRdaXePlPTBJ9h3Y/HtKp3OkNgocgNl3ec6Cg9cOCB+QrLADq+8/JyPI9lr0
+wFPl0t2LGf/Yf5gsB+Yrnd5cYxDK5JD0eAlYvXrLDjA/N/M82Lzej91g9e8P
+LwHbN2PFacXuY0wOLQJVMscv/Nuv95oH7P801xSBh59ZD/y7+eTnnhpmh9NZ
+WWD+jN5bBSvOcDjYaE4B+38G92ew/IoUHrD/AFpqtUc=
+    "], {{
+      {RGBColor[0.5, 0., 0.], Arrowheads[{{0.02197422940082518, 0.7}}], 
+       ArrowBox[{1, 2}], ArrowBox[{1, 3}], ArrowBox[{1, 4}], ArrowBox[{5, 6}],
+        ArrowBox[{5, 7}], ArrowBox[{8, 9}], ArrowBox[{8, 10}], 
+       ArrowBox[{8, 11}], ArrowBox[{8, 12}], ArrowBox[{8, 13}], 
+       ArrowBox[{8, 14}], ArrowBox[{8, 15}], ArrowBox[{8, 16}], 
+       ArrowBox[{17, 18}], ArrowBox[{17, 3}], ArrowBox[{17, 19}], 
+       ArrowBox[{17, 20}], ArrowBox[{17, 21}]}}, {InsetBox[
+       FrameBox["1",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 1], InsetBox[
+       FrameBox["11",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 2], InsetBox[
+       FrameBox["28",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 3], InsetBox[
+       FrameBox["31",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 4], InsetBox[
+       FrameBox["4",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 5], InsetBox[
+       FrameBox["19930",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 6], InsetBox[
+       FrameBox["19939",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 7], InsetBox[
+       FrameBox["7",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 8], InsetBox[
+       FrameBox["48",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 9], InsetBox[
+       FrameBox["104689",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 10], InsetBox[
+       FrameBox["38",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 11], InsetBox[
+       FrameBox["33",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 12], InsetBox[
+       FrameBox["3026",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 13], InsetBox[
+       FrameBox["39",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 14], InsetBox[
+       FrameBox["32",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 15], InsetBox[
+       FrameBox["35",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 16], InsetBox[
+       FrameBox["9",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 17], InsetBox[
+       FrameBox["23",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 18], InsetBox[
+       FrameBox["71",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 19], InsetBox[
+       FrameBox["101996",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 20], InsetBox[
+       FrameBox["87826",
+        Background->RGBColor[1, 1, 0.8],
+        FrameStyle->RGBColor[0.94, 0.85, 0.36],
+        StripOnInput->False], 21]}}],
+   Annotation[#, VertexCoordinateRules -> CompressedData["
+1:eJxTTMoPSmViYGAQBWIQ/aI76IS+2mf7V2wT9T4YfNl/QkZa4szOj/YNlrdX
+XEm/s//El6+siyP/2LccbV56u+Hnfqi4/YrJ1WD+n7UdZ/0+Czsov/gMVv8j
+WnD23Gf8DjD9EHlxh3RX1ZUgvtjeS4Laj77ab/Yxn/7DQujAftfQCymt7+21
+LRdaXePlPTBJ9h3Y/HtKp3OkNgocgNl3ec6Cg9cOCB+QrLADq+8/JyPI9lr0
+wFPl0t2LGf/Yf5gsB+Yrnd5cYxDK5JD0eAlYvXrLDjA/N/M82Lzej91g9e8P
+LwHbN2PFacXuY0wOLQJVMscv/Nuv95oH7P801xSBh59ZD/y7+eTnnhpmh9NZ
+WWD+jN5bBSvOcDjYaE4B+38G92ew/IoUHrD/AFpqtUc=
+     "]]& ],
+  AspectRatio->Automatic,
+  FrameTicks->None,
+  PlotRange->All,
+  PlotRangePadding->Scaled[0.1]]], "Output",
+ CellChangeTimes->{{3.7075130210872765`*^9, 3.7075130480573683`*^9}, 
+   3.707513139419591*^9, 
+   3.7075133177011585`*^9},ExpressionUUID->"cceb8165-c524-4397-8a63-\
+e54cf13fd280"]
+}, Open  ]]
+},
+WindowSize->{606, 637},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+FrontEndVersion->"11.1 for Microsoft Windows (64-bit) (March 13, 2017)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 258, 7, 30, "Input", "ExpressionUUID" -> \
+"12d875fa-6764-4217-9ea3-459a3e90bf40"],
+Cell[CellGroupData[{
+Cell[841, 31, 432, 10, 30, "Input", "ExpressionUUID" -> \
+"9bb2b88d-cbfe-441b-9be4-ee50b97f8f26"],
+Cell[1276, 43, 3249, 51, 848, "Output", "ExpressionUUID" -> \
+"99dde53f-e955-4b5e-9c60-9456b262df85"]
+}, Open  ]],
+Cell[4540, 97, 2271, 56, 240, "Input", "ExpressionUUID" -> \
+"2817055f-7fd8-44a8-8ed1-b2b386b3fe25"],
+Cell[CellGroupData[{
+Cell[6836, 157, 1829, 44, 145, InheritFromParent, "ExpressionUUID" -> \
+"124b8fad-744c-408c-b656-f946fb75f21c"],
+Cell[8668, 203, 5019, 118, 342, "Output", "ExpressionUUID" -> \
+"cceb8165-c524-4397-8a63-e54cf13fd280"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
