@@ -1,0 +1,149 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      6000,        141]
+NotebookOptionsPosition[      5598,        125]
+NotebookOutlinePosition[      5940,        140]
+CellTagsIndexPosition[      5897,        137]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"getData", "[", "id_", "]"}], ":=", 
+  RowBox[{"Module", "[", "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"stringList", "=", 
+       RowBox[{"StringSplit", "[", 
+        RowBox[{"leibniz", ",", "\"\<Dissertation\>\""}], "]"}]}], ";", 
+      RowBox[{"numberPartition", "=", 
+       RowBox[{
+        RowBox[{"StringSplit", "[", 
+         RowBox[{"leibniz", ",", "\"\<Dissertation\>\""}], "]"}], "//", 
+        "Length"}]}], ";", " ", 
+      RowBox[{"i", "=", "1"}]}], "\[IndentingNewLine]", "}"}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{"While", "[", 
+     RowBox[{
+      RowBox[{"i", "\[LessEqual]", " ", "numberPartition"}], ",", 
+      "\[IndentingNewLine]", 
+      RowBox[{
+       RowBox[{"If", "[", 
+        RowBox[{
+         RowBox[{"i", "\[Equal]", "1"}], ",", "\[IndentingNewLine]", 
+         RowBox[{
+          RowBox[{"takeName", "[", 
+           RowBox[{"stringList", "[", 
+            RowBox[{"[", "1", "]"}], "]"}], "]"}], ";", "\[IndentingNewLine]", 
+          RowBox[{"takeTitle", "[", 
+           RowBox[{"stringList", "[", 
+            RowBox[{"[", "1", "]"}], "]"}], "]"}], ";", "\[IndentingNewLine]", 
+          RowBox[{"takeInstitution", "[", 
+           RowBox[{"stringList", "[", 
+            RowBox[{"[", "1", "]"}], "]"}], "]"}], ";", "\[IndentingNewLine]", 
+          RowBox[{"takeYear", "[", 
+           RowBox[{"stringList", "[", 
+            RowBox[{"[", "1", "]"}], "]"}], "]"}], ";", "\[IndentingNewLine]", 
+          RowBox[{"takeCountry", "[", 
+           RowBox[{"stringList", "[", 
+            RowBox[{"[", "1", "]"}], "]"}], "]"}], ";", "\[IndentingNewLine]", 
+          RowBox[{"i", "++"}], ";"}]}], "\[IndentingNewLine]", "]"}], ";", 
+       "\[IndentingNewLine]", "\[IndentingNewLine]", 
+       RowBox[{"If", "[", 
+        RowBox[{
+         RowBox[{"2", "\[LessEqual]", " ", "i", "\[LessEqual]", " ", 
+          RowBox[{"numberPartition", "-", "1"}]}], ",", "\[IndentingNewLine]", 
+         RowBox[{
+          RowBox[{"takeDissertation", "[", 
+           RowBox[{"stringList", "[", 
+            RowBox[{"[", "i", "]"}], "]"}], "]"}], ";", "\[IndentingNewLine]", 
+          RowBox[{"takeSubject", "[", 
+           RowBox[{"stringList", "[", 
+            RowBox[{"[", "i", "]"}], "]"}], "]"}], ";", "\[IndentingNewLine]", 
+          RowBox[{"takeAdvisor", "[", 
+           RowBox[{"stringList", "[", 
+            RowBox[{"[", "i", "]"}], "]"}], "]"}], ";", "\[IndentingNewLine]", 
+          RowBox[{"takeTitle", "[", 
+           RowBox[{"stringList", "[", 
+            RowBox[{"[", "i", "]"}], "]"}], "]"}], ";", "\[IndentingNewLine]", 
+          RowBox[{"takeInstitution", "[", 
+           RowBox[{"stringList", "[", 
+            RowBox[{"[", "i", "]"}], "]"}], "]"}], ";", "\[IndentingNewLine]", 
+          RowBox[{"takeYear", "[", 
+           RowBox[{"stringList", "[", 
+            RowBox[{"[", "i", "]"}], "]"}], "]"}], ";", "\[IndentingNewLine]", 
+          RowBox[{"takeCountry", "[", 
+           RowBox[{"stringList", "[", 
+            RowBox[{"[", "i", "]"}], "]"}], "]"}], ";", "\[IndentingNewLine]", 
+          RowBox[{"i", "++"}], ";"}]}], "\[IndentingNewLine]", "]"}], ";", 
+       "\[IndentingNewLine]", "\[IndentingNewLine]", 
+       RowBox[{"If", "[", " ", 
+        RowBox[{
+         RowBox[{"i", "==", " ", "numberPartition"}], ",", 
+         "\[IndentingNewLine]", 
+         RowBox[{
+          RowBox[{"takeDissertation", "[", 
+           RowBox[{"stringList", "[", 
+            RowBox[{"[", "i", "]"}], "]"}], "]"}], ";", "\[IndentingNewLine]", 
+          RowBox[{"takeSubject", "[", 
+           RowBox[{"stringList", "[", 
+            RowBox[{"[", "i", "]"}], "]"}], "]"}], ";", "\[IndentingNewLine]", 
+          RowBox[{"takeAdvisor", "[", 
+           RowBox[{"stringList", "[", 
+            RowBox[{"[", "i", "]"}], "]"}], "]"}], ";", "\[IndentingNewLine]", 
+          RowBox[{"i", "++"}], ";"}]}], "\[IndentingNewLine]", "]"}], ";"}]}],
+      "\[IndentingNewLine]", "]"}]}], "\[IndentingNewLine]", "]"}]}]], "Input",
+ CellChangeTimes->{{3.707505316407362*^9, 3.7075053796045055`*^9}, {
+  3.707506597294893*^9, 3.7075066006124516`*^9}, {3.707507316277164*^9, 
+  3.707507320673559*^9}, {3.707508082147645*^9, 3.707508097445515*^9}, {
+  3.7075082108825455`*^9, 3.707508290924653*^9}, {3.707508354050177*^9, 
+  3.707508416232131*^9}, {3.7075084693544474`*^9, 3.707508469871445*^9}, {
+  3.7075085273312197`*^9, 3.7075086023775773`*^9}, {3.707508706765277*^9, 
+  3.7075091210746517`*^9}, {3.7075091515373282`*^9, 3.707509160078369*^9}, {
+  3.707509206034751*^9, 3.7075092598572206`*^9}, {3.7075098431002083`*^9, 
+  3.7075098617680864`*^9}, {3.7075110880544014`*^9, 3.707511092470191*^9}, {
+  3.7075111339406176`*^9, 3.7075111359936333`*^9}, {3.7075135815154934`*^9, 
+  3.7075136268704133`*^9}},ExpressionUUID->"4cdc9930-cea6-4034-b902-\
+3382d73a19fa"],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.707507145859168*^9, 
+  3.707507147136983*^9}},ExpressionUUID->"7d86cfcf-aa60-4b1d-b5c2-\
+bee914963567"]
+},
+WindowSize->{606, 637},
+WindowMargins->{{Automatic, -7}, {Automatic, 0}},
+FrontEndVersion->"11.1 for Microsoft Windows (64-bit) (March 13, 2017)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 4881, 98, 658, "Input", "ExpressionUUID" -> \
+"4cdc9930-cea6-4034-b902-3382d73a19fa"],
+Cell[5442, 120, 152, 3, 30, "Input", "ExpressionUUID" -> \
+"7d86cfcf-aa60-4b1d-b5c2-bee914963567"]
+}
+]
+*)
+
