@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    206081,       3357]
-NotebookOptionsPosition[    200313,       3213]
-NotebookOutlinePosition[    200655,       3228]
-CellTagsIndexPosition[    200612,       3225]
+NotebookDataLength[    207973,       3379]
+NotebookOptionsPosition[    202203,       3235]
+NotebookOutlinePosition[    202545,       3250]
+CellTagsIndexPosition[    202502,       3247]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -84,9 +84,10 @@ Cell[BoxData["\<\"Sweden\"\>"], "Output",
    3.707568422132662*^9, {3.707568455816327*^9, 3.7075684672674913`*^9}, {
    3.7075684998592186`*^9, 3.7075685202460513`*^9}, 3.7075730346206584`*^9, 
    3.7076113544511466`*^9, 3.707611434296109*^9, {3.707614656487569*^9, 
-   3.7076146643853765`*^9}, {3.7076186649201293`*^9, 
-   3.707618675925864*^9}},ExpressionUUID->"f79a4b74-afad-4775-8e64-\
-6c01ecc8fc1d"]
+   3.7076146643853765`*^9}, {3.7076186649201293`*^9, 3.707618675925864*^9}, {
+   3.7076191274489965`*^9, 3.707619140548196*^9}, {3.7076495815755796`*^9, 
+   3.707649590305797*^9}},ExpressionUUID->"245dce05-b9c6-4d18-be4c-\
+efe3ade3938c"]
 }, Open  ]],
 
 Cell[BoxData["\[IndentingNewLine]"], "Input",
@@ -133,9 +134,10 @@ Cell[BoxData["\<\"Shams ad-Din  Al-Bukhari\"\>"], "Output",
    3.7072676360000253`*^9, 3.707267640231987*^9}, 3.7073172988825045`*^9, 
    3.70748595281689*^9, {3.7075163527149553`*^9, 3.707516369377428*^9}, 
    3.7076113548678923`*^9, 3.70761143055973*^9, {3.7076146566032667`*^9, 
-   3.707614664489569*^9}, {3.707618665151479*^9, 
-   3.7076186760497656`*^9}},ExpressionUUID->"88460085-7e62-424b-806a-\
-692043bc2e14"]
+   3.707614664489569*^9}, {3.707618665151479*^9, 3.7076186760497656`*^9}, {
+   3.7076191275648766`*^9, 3.70761914066399*^9}, {3.707649581691234*^9, 
+   3.7076495904061074`*^9}},ExpressionUUID->"4b29d5d4-374d-4185-893d-\
+f036a2b7c54c"]
 }, Open  ]],
 
 Cell[BoxData["\[IndentingNewLine]"], "Input",
@@ -202,9 +204,10 @@ Cell[BoxData["\<\"Dr. phil.\"\>"], "Output",
    3.707516583208624*^9, 3.70751658844831*^9}, {3.707516684689805*^9, 
    3.707516696212934*^9}, 3.707573069042539*^9, 3.707611355205351*^9, 
    3.707611426711325*^9, {3.707614656725665*^9, 3.7076146646054688`*^9}, {
-   3.7076186653051324`*^9, 
-   3.707618676183073*^9}},ExpressionUUID->"f129514a-c0ae-46c3-8fd0-\
-a32e866fa2a2"]
+   3.7076186653051324`*^9, 3.707618676183073*^9}, {3.7076191276963882`*^9, 
+   3.70761914079533*^9}, {3.7076495818292685`*^9, 
+   3.70764959052804*^9}},ExpressionUUID->"06f0752b-bb1d-41ad-9c95-\
+f3fd5148892b"]
 }, Open  ]],
 
 Cell[BoxData["\[IndentingNewLine]"], "Input",
@@ -289,9 +292,10 @@ Cell[BoxData["\<\"Universit&auml;t Helmstedt\"\>"], "Output",
    3.707586767396817*^9, {3.7075868067347813`*^9, 3.707586878902646*^9}, 
    3.707587023548155*^9, {3.707587601245485*^9, 3.7075876338479366`*^9}, 
    3.7076113555222387`*^9, 3.7076114231549644`*^9, {3.7076146568728085`*^9, 
-   3.7076146647057457`*^9}, {3.7076186654576464`*^9, 
-   3.707618676287529*^9}},ExpressionUUID->"3ee682e1-250c-489f-a27e-\
-9360545eb29a"]
+   3.7076146647057457`*^9}, {3.7076186654576464`*^9, 3.707618676287529*^9}, {
+   3.7076191278500414`*^9, 3.707619140911254*^9}, {3.707649581960337*^9, 
+   3.707649590644167*^9}},ExpressionUUID->"8f08bd90-15b2-4304-87af-\
+84da9fb250a3"]
 }, Open  ]],
 
 Cell[BoxData["\[IndentingNewLine]"], "Input",
@@ -370,8 +374,10 @@ Cell[BoxData["\<\"1717\"\>"], "Output",
    3.707606982224677*^9, {3.7076071788709106`*^9, 3.7076072177035346`*^9}, 
    3.7076072701184044`*^9, 3.707611355785307*^9, 3.707611419669139*^9, {
    3.707614656957455*^9, 3.707614664821669*^9}, {3.7076186655524087`*^9, 
-   3.707618676403417*^9}},ExpressionUUID->"c403b97b-3ecf-4bcb-812d-\
-a63c28678ee1"]
+   3.707618676403417*^9}, {3.707619127997182*^9, 3.707619141026684*^9}, {
+   3.707649582044978*^9, 
+   3.7076495907441487`*^9}},ExpressionUUID->"d662a748-ad34-4d71-b375-\
+d4eff893a71b"]
 }, Open  ]],
 
 Cell[BoxData["\[IndentingNewLine]"], "Input",
@@ -441,8 +447,10 @@ gradus resolvi posse\"\>"], "Output",
    3.7075154522318754`*^9}, 3.707515987918394*^9, 3.7075667838369823`*^9, 
    3.7075729162122345`*^9, 3.70761135607018*^9, 3.7076114123339562`*^9, {
    3.707614657088969*^9, 3.707614664890665*^9}, {3.7076186656901054`*^9, 
-   3.7076186764880652`*^9}},ExpressionUUID->"148f4847-2aa5-4785-ab88-\
-c4337cfa170b"]
+   3.7076186764880652`*^9}, {3.7076191281344404`*^9, 3.707619141111334*^9}, {
+   3.7076495822298822`*^9, 
+   3.7076495908287945`*^9}},ExpressionUUID->"c05aaf1d-3531-4390-961d-\
+6fde1ffeb62b"]
 }, Open  ]],
 
 Cell[BoxData["\[IndentingNewLine]"], "Input",
@@ -470,7 +478,7 @@ Cell[BoxData[{
              "\"\<Mathematics Subject Classification\>\"", "~~", "__", "~~", 
               "\"\<</div>\>\""}]}], "]"}], ",", 
            RowBox[{"{", 
-            RowBox[{"37", ",", 
+            RowBox[{"46", ",", 
              RowBox[{"-", "1"}]}], "}"}]}], "]"}], ",", "\"\<</div>\>\""}], 
         "]"}]}], "}"}], ",", "\[IndentingNewLine]", 
      RowBox[{"If", "[", 
@@ -499,10 +507,11 @@ Cell[BoxData[{
    3.7075161601281548`*^9}, {3.7075194672398844`*^9, 
    3.7075194744936843`*^9}, {3.707572833163333*^9, 3.707572845898636*^9}, {
    3.7075728791168814`*^9, 3.7075729068772125`*^9}, {3.707608122345295*^9, 
-   3.707608250728361*^9}},ExpressionUUID->"5d7014c9-5ed0-4f1b-b8d5-\
+   3.707608250728361*^9}, {3.7076510202115126`*^9, 
+   3.707651026961463*^9}},ExpressionUUID->"5d7014c9-5ed0-4f1b-b8d5-\
 a4e037b317a9"],
 
-Cell[BoxData["\<\"74&#8212;Mechanics of deformable solids\"\>"], "Output",
+Cell[BoxData["\<\"Mechanics of deformable solids\"\>"], "Output",
  CellChangeTimes->{{3.7072685860446796`*^9, 3.7072686223357253`*^9}, {
    3.7072687010911713`*^9, 3.707268759251487*^9}, {3.7072689120116725`*^9, 
    3.7072689569878364`*^9}, {3.7072695976779785`*^9, 
@@ -515,9 +524,11 @@ Cell[BoxData["\<\"74&#8212;Mechanics of deformable solids\"\>"], "Output",
    3.707572846452527*^9}, {3.707572880437643*^9, 3.7075729075083685`*^9}, {
    3.7076081957355924`*^9, 3.7076082511134067`*^9}, 3.7076113563395224`*^9, 
    3.7076114088850965`*^9, {3.7076146572738714`*^9, 3.707614664968791*^9}, {
-   3.707618665821892*^9, 
-   3.7076186765661926`*^9}},ExpressionUUID->"990bf95d-80d7-40c3-8844-\
-e27d99fe7178"]
+   3.707618665821892*^9, 3.7076186765661926`*^9}, {3.707619128266453*^9, 
+   3.7076191412112875`*^9}, {3.707649582361166*^9, 3.70764959090695*^9}, {
+   3.707651022896452*^9, 
+   3.7076510426803837`*^9}},ExpressionUUID->"7384793a-9b7b-4607-b0d8-\
+62485553fe1b"]
 }, Open  ]],
 
 Cell[BoxData["\[IndentingNewLine]"], "Input",
@@ -606,8 +617,10 @@ Cell[BoxData[
    3.707572786291224*^9, 3.707572817440807*^9}, {3.707573679613567*^9, 
    3.707573698192668*^9}, 3.707611356555231*^9, 3.707611405198724*^9, {
    3.707614657374136*^9, 3.707614665037841*^9}, {3.707618665922064*^9, 
-   3.7076186766415553`*^9}},ExpressionUUID->"4aa96832-7aa3-4d41-943c-\
-64c9279c908d"]
+   3.7076186766415553`*^9}, {3.70761912835109*^9, 3.707619141295944*^9}, {
+   3.7076495824458103`*^9, 
+   3.7076495909757147`*^9}},ExpressionUUID->"76ddfd8e-e0ad-41ec-976d-\
+7dd5a8881001"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -841,9 +854,10 @@ new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
 {imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
 imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
 body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
- CellChangeTimes->{{3.7076186669389195`*^9, 
-  3.7076186772355747`*^9}},ExpressionUUID->"14bae22c-1f78-499a-9866-\
-42b72df0ccae"]
+ CellChangeTimes->{{3.7076186669389195`*^9, 3.7076186772355747`*^9}, {
+  3.707619129156935*^9, 3.707619141927355*^9}, {3.7076495832728815`*^9, 
+  3.707649591506997*^9}},ExpressionUUID->"43aa03be-eb86-4454-94a1-\
+5292d607f785"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1074,14 +1088,14 @@ padding-right: 2px\\\">1910</td><td style=\\\"text-align: \
 center\\\">278</td></tr>\\n\\n<tr ><td><a \
 href=\\\"id.php?id=18602\\\">Wirtinger, Wilhelm</a></td><td>Universit&auml;t \
 Wien</td><td style=\\\"padding-left: 2px; padding-right: 2px\\\">1887</td><td \
-style=\\\"text-align: center\\\">3108</td></tr>\\n\\n\\n</table>\\n\\n<p \
+style=\\\"text-align: center\\\">3109</td></tr>\\n\\n\\n</table>\\n\\n<p \
 style=\\\"text-align: center\\\">According to our current on-line database, \
 Gustav Ritter von Escherich has 14 <a href=\\\"javascript:var \
 x=window.open('students.php?name=&#71;&#117;&#115;&#116;&#97;&#118; \
 &#82;&#105;&#116;&#116;&#101;&#114; &#118;&#111;&#110; \
 &#69;&#115;&#99;&#104;&#101;&#114;&#105;&#99;&#104;','popup','width=250,\
 height=120,menubar=no,scrollbars=yes,resizable=no,location=no');\\\">students<\
-/a> and 7104 <a href=\\\"javascript:var \
+/a> and 7105 <a href=\\\"javascript:var \
 x=window.open('descendants.php','popup','menubar=no,location=no,width=450,\
 scrollbars=yes,height=225');\\\"> descendants</a>.\\n<br />\\nWe welcome any \
 additional information.</p>\\n<p style=\\\"font-size: small; text-align: \
@@ -1126,9 +1140,10 @@ new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
 {imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
 imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
 body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
- CellChangeTimes->{{3.7076186675890923`*^9, 
-  3.7076186781513505`*^9}},ExpressionUUID->"a58bac6c-0683-4c15-9324-\
-8d300d839490"]
+ CellChangeTimes->{{3.7076186675890923`*^9, 3.7076186781513505`*^9}, {
+  3.7076191297686996`*^9, 3.7076191425643682`*^9}, {3.707649583833104*^9, 
+  3.707649592223298*^9}},ExpressionUUID->"47da3fce-672b-49ea-8e80-\
+ec4a90177f70"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1328,7 +1343,7 @@ auto\\\">\\n<tr><th>Name</th><th>School</th><th>Year</th><th>Descendants</th><\
 /tr><tr style=\\\"background-color: #E5E6CF;\\\"><td><a \
 href=\\\"id.php?id=17981\\\">Fourier, Jean-Baptiste</a></td><td>&Eacute;cole \
 Normale Sup&eacute;rieure</td><td style=\\\"padding-left: 2px; padding-right: \
-2px\\\"></td><td style=\\\"text-align: center\\\">57045</td></tr>\\n\\n<tr \
+2px\\\"></td><td style=\\\"text-align: center\\\">57051</td></tr>\\n\\n<tr \
 ><td><a href=\\\"id.php?id=43262\\\">Plana, Giovanni</a></td><td>&Eacute;cole \
 Polytechnique</td><td style=\\\"padding-left: 2px; padding-right: \
 2px\\\"></td><td style=\\\"text-align: center\\\"></td></tr>\\n\\n<tr \
@@ -1336,13 +1351,13 @@ style=\\\"background-color: #E5E6CF;\\\"><td><a \
 href=\\\"id.php?id=17865\\\">Poisson, Simeon</a></td><td>&Eacute;cole \
 Polytechnique</td><td style=\\\"padding-left: 2px; padding-right: \
 2px\\\">1800</td><td style=\\\"text-align: \
-center\\\">96503</td></tr>\\n\\n\\n</table>\\n\\n<p style=\\\"text-align: \
+center\\\">96509</td></tr>\\n\\n\\n</table>\\n\\n<p style=\\\"text-align: \
 center\\\">According to our current on-line database, Joseph Lagrange has 3 \
 <a href=\\\"javascript:var \
 x=window.open('students.php?name=&#74;&#111;&#115;&#101;&#112;&#104; \
 &#76;&#97;&#103;&#114;&#97;&#110;&#103;&#101;','popup','width=250,height=120,\
 menubar=no,scrollbars=yes,resizable=no,location=no');\\\">students</a> and \
-96506 <a href=\\\"javascript:var \
+96512 <a href=\\\"javascript:var \
 x=window.open('descendants.php','popup','menubar=no,location=no,width=450,\
 scrollbars=yes,height=225');\\\"> descendants</a>.\\n<br />\\nWe welcome any \
 additional information.</p>\\n<p style=\\\"font-size: small; text-align: \
@@ -1387,9 +1402,9 @@ new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
 {imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
 imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
 body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
- CellChangeTimes->{{3.707618668140914*^9, 
-  3.7076186788517494`*^9}},ExpressionUUID->"79935bd4-d168-4f1c-ad53-\
-6a72a8df8ea6"]
+ CellChangeTimes->{{3.707618668140914*^9, 3.7076186788517494`*^9}, {
+  3.707619130300826*^9, 3.7076191433498383`*^9}, {3.7076495843495255`*^9, 
+  3.7076495928772*^9}},ExpressionUUID->"b2fff3a5-58a9-4861-8c07-7117f141a1e3"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1569,14 +1584,14 @@ auto\\\">\\n<tr><th>Name</th><th>School</th><th>Year</th><th>Descendants</th><\
 /tr><tr style=\\\"background-color: #E5E6CF;\\\"><td><a \
 href=\\\"id.php?id=201288\\\">Chioniadis, Gregory</a></td><td></td><td style=\
 \\\"padding-left: 2px; padding-right: 2px\\\"></td><td style=\\\"text-align: \
-center\\\">139188</td></tr>\\n\\n\\n</table>\\n\\n<p style=\\\"text-align: \
+center\\\">139199</td></tr>\\n\\n\\n</table>\\n\\n<p style=\\\"text-align: \
 center\\\">According to our current on-line database, Shams ad-Din Al-Bukhari \
 has 1 <a href=\\\"javascript:var \
 x=window.open('students.php?name=&#83;&#104;&#97;&#109;&#115; \
 &#97;&#100;&#45;&#68;&#105;&#110; \
 &#65;&#108;&#45;&#66;&#117;&#107;&#104;&#97;&#114;&#105;','popup','width=250,\
 height=120,menubar=no,scrollbars=yes,resizable=no,location=no');\\\">student</\
-a> and 139189 <a href=\\\"javascript:var \
+a> and 139200 <a href=\\\"javascript:var \
 x=window.open('descendants.php','popup','menubar=no,location=no,width=450,\
 scrollbars=yes,height=225');\\\"> descendants</a>.\\n<br />\\nWe welcome any \
 additional information.</p>\\n<p style=\\\"font-size: small; text-align: \
@@ -1621,9 +1636,10 @@ new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
 {imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
 imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
 body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
- CellChangeTimes->{{3.707618668657529*^9, 
-  3.707618679637277*^9}},ExpressionUUID->"8ed74f8b-2486-4c9e-9bf8-\
-69a3e7f6511c"]
+ CellChangeTimes->{{3.707618668657529*^9, 3.707618679637277*^9}, {
+  3.7076191307550087`*^9, 3.707619143998064*^9}, {3.7076495847661953`*^9, 
+  3.7076495935939713`*^9}},ExpressionUUID->"2b07ef08-0837-4d11-b9f0-\
+1ab049ac2025"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1811,7 +1827,7 @@ auto\\\">\\n<tr><th>Name</th><th>School</th><th>Year</th><th>Descendants</th><\
 href=\\\"id.php?id=18603\\\">Bessel, \
 Friedrich</a></td><td>Georg-August-Universit&auml;t G&ouml;ttingen</td><td \
 style=\\\"padding-left: 2px; padding-right: 2px\\\">1810</td><td \
-style=\\\"text-align: center\\\">34588</td></tr>\\n\\n<tr ><td><a \
+style=\\\"text-align: center\\\">34590</td></tr>\\n\\n<tr ><td><a \
 href=\\\"id.php?id=18233\\\">Dedekind, J. W. \
 Richard</a></td><td>Georg-August-Universit&auml;t G&ouml;ttingen</td><td \
 style=\\\"padding-left: 2px; padding-right: 2px\\\">1852</td><td \
@@ -1823,7 +1839,7 @@ Berlin</td><td style=\\\"padding-left: 2px; padding-right: \
 ><td><a href=\\\"id.php?id=29642\\\">Gerling, \
 Christian</a></td><td>Georg-August-Universit&auml;t G&ouml;ttingen</td><td \
 style=\\\"padding-left: 2px; padding-right: 2px\\\">1812</td><td \
-style=\\\"text-align: center\\\">56032</td></tr>\\n\\n<tr \
+style=\\\"text-align: center\\\">56038</td></tr>\\n\\n<tr \
 style=\\\"background-color: #E5E6CF;\\\"><td><a \
 href=\\\"id.php?id=55175\\\">Germain, \
 Sophie</a></td><td>Georg-August-Universit&auml;t G&ouml;ttingen</td><td \
@@ -1855,7 +1871,7 @@ style=\\\"text-align: center\\\"></td></tr>\\n\\n\\n</table>\\n\\n<p style=\\\
 \[SZ] has 10 <a href=\\\"javascript:var \
 x=window.open('students.php?name=&#67;&#97;&#114;&#108; \
 &#71;&#97;&#117;&#223;','popup','width=250,height=120,menubar=no,scrollbars=\
-yes,resizable=no,location=no');\\\">students</a> and 78957 <a \
+yes,resizable=no,location=no');\\\">students</a> and 78964 <a \
 href=\\\"javascript:var \
 x=window.open('descendants.php','popup','menubar=no,location=no,width=450,\
 scrollbars=yes,height=225');\\\"> descendants</a>.\\n<br />\\nWe welcome any \
@@ -1901,9 +1917,10 @@ new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
 {imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
 imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
 body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
- CellChangeTimes->{{3.707618669073995*^9, 
-  3.7076186801573925`*^9}},ExpressionUUID->"832d6e53-af25-401b-856b-\
-fd6ecda11d67"]
+ CellChangeTimes->{{3.707618669073995*^9, 3.7076186801573925`*^9}, {
+  3.7076191313329363`*^9, 3.7076191445677767`*^9}, {3.707649585151329*^9, 
+  3.707649594094104*^9}},ExpressionUUID->"cd420c1f-773c-4102-952e-\
+b335a78a524b"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -2113,18 +2130,18 @@ auto\\\">\\n<tr><th>Name</th><th>School</th><th>Year</th><th>Descendants</th><\
 /tr><tr style=\\\"background-color: #E5E6CF;\\\"><td><a \
 href=\\\"id.php?id=143011\\\">Malebranche, Nicolas</a></td><td></td><td \
 style=\\\"padding-left: 2px; padding-right: 2px\\\">1672</td><td \
-style=\\\"text-align: center\\\">100509</td></tr>\\n\\n<tr ><td><a \
+style=\\\"text-align: center\\\">100515</td></tr>\\n\\n<tr ><td><a \
 href=\\\"id.php?id=47793\\\">von Wolff, \
 Christian</a></td><td>Universit&auml;t Leipzig</td><td \
 style=\\\"padding-left: 2px; padding-right: 2px\\\">1703</td><td \
-style=\\\"text-align: center\\\">9111</td></tr>\\n\\n\\n</table>\\n\\n<p \
+style=\\\"text-align: center\\\">9112</td></tr>\\n\\n\\n</table>\\n\\n<p \
 style=\\\"text-align: center\\\">According to our current on-line database, \
 Gottfried Leibniz has 2 <a href=\\\"javascript:var \
 x=window.open('students.php?name=&#71;&#111;&#116;&#116;&#102;&#114;&#105;&#\
 101;&#100; \
 &#76;&#101;&#105;&#98;&#110;&#105;&#122;','popup','width=250,height=120,\
 menubar=no,scrollbars=yes,resizable=no,location=no');\\\">students</a> and \
-106341 <a href=\\\"javascript:var \
+106348 <a href=\\\"javascript:var \
 x=window.open('descendants.php','popup','menubar=no,location=no,width=450,\
 scrollbars=yes,height=225');\\\"> descendants</a>.\\n<br />\\nWe welcome any \
 additional information.</p>\\n<p style=\\\"font-size: small; text-align: \
@@ -2169,9 +2186,10 @@ new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
 {imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
 imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
 body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
- CellChangeTimes->{{3.7076186694430327`*^9, 
-  3.707618680770356*^9}},ExpressionUUID->"80f47d2b-8641-4418-a64b-\
-7be047cef85f"]
+ CellChangeTimes->{{3.7076186694430327`*^9, 3.707618680770356*^9}, {
+  3.707619132007228*^9, 3.707619145152603*^9}, {3.7076495855989404`*^9, 
+  3.707649594810484*^9}},ExpressionUUID->"b7cc0b99-a603-46b9-a3f7-\
+88f2fa7a6fa5"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -2370,13 +2388,13 @@ Universitet</td><td style=\\\"padding-left: 2px; padding-right: \
 ><td><a href=\\\"id.php?id=145119\\\">Str\[ODoubleDot]mer, \
 M\[ARing]rten</a></td><td>Uppsala Universitet</td><td style=\\\"padding-left: \
 2px; padding-right: 2px\\\">1731</td><td style=\\\"text-align: \
-center\\\">3477</td></tr>\\n\\n\\n</table>\\n\\n<p style=\\\"text-align: \
+center\\\">3478</td></tr>\\n\\n\\n</table>\\n\\n<p style=\\\"text-align: \
 center\\\">According to our current on-line database, Samuel Klingenstierna \
 has 2 <a href=\\\"javascript:var \
 x=window.open('students.php?name=&#83;&#97;&#109;&#117;&#101;&#108; \
 &#75;&#108;&#105;&#110;&#103;&#101;&#110;&#115;&#116;&#105;&#101;&#114;&#110;&\
 #97;','popup','width=250,height=120,menubar=no,scrollbars=yes,resizable=no,\
-location=no');\\\">students</a> and 3478 <a href=\\\"javascript:var \
+location=no');\\\">students</a> and 3479 <a href=\\\"javascript:var \
 x=window.open('descendants.php','popup','menubar=no,location=no,width=450,\
 scrollbars=yes,height=225');\\\"> descendants</a>.\\n<br />\\nWe welcome any \
 additional information.</p>\\n<p style=\\\"font-size: small; text-align: \
@@ -2421,9 +2439,10 @@ new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
 {imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
 imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
 body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
- CellChangeTimes->{{3.7076186698126965`*^9, 
-  3.707618681270563*^9}},ExpressionUUID->"11356fe5-c501-432d-bddb-\
-0ec7984cb031"]
+ CellChangeTimes->{{3.7076186698126965`*^9, 3.707618681270563*^9}, {
+  3.7076191325877414`*^9, 3.7076191458321457`*^9}, {3.7076495860838346`*^9, 
+  3.707649595295848*^9}},ExpressionUUID->"2cbdad43-67b9-4457-8317-\
+add71ce39eb1"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -2600,13 +2619,13 @@ auto\\\">\\n<tr><th>Name</th><th>School</th><th>Year</th><th>Descendants</th><\
 /tr><tr style=\\\"background-color: #E5E6CF;\\\"><td><a \
 href=\\\"id.php?id=184632\\\">Bryennios, Manuel</a></td><td></td><td style=\\\
 \"padding-left: 2px; padding-right: 2px\\\"></td><td style=\\\"text-align: \
-center\\\">139187</td></tr>\\n\\n\\n</table>\\n\\n<p style=\\\"text-align: \
+center\\\">139198</td></tr>\\n\\n\\n</table>\\n\\n<p style=\\\"text-align: \
 center\\\">According to our current on-line database, Gregory Chioniadis has \
 1 <a href=\\\"javascript:var \
 x=window.open('students.php?name=&#71;&#114;&#101;&#103;&#111;&#114;&#121; \
 &#67;&#104;&#105;&#111;&#110;&#105;&#97;&#100;&#105;&#115;','popup','width=\
 250,height=120,menubar=no,scrollbars=yes,resizable=no,location=no');\\\">\
-student</a> and 139188 <a href=\\\"javascript:var \
+student</a> and 139199 <a href=\\\"javascript:var \
 x=window.open('descendants.php','popup','menubar=no,location=no,width=450,\
 scrollbars=yes,height=225');\\\"> descendants</a>.\\n<br />\\nWe welcome any \
 additional information.</p>\\n<p style=\\\"font-size: small; text-align: \
@@ -2651,9 +2670,10 @@ new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
 {imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
 imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
 body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
- CellChangeTimes->{{3.707618670081115*^9, 
-  3.7076186818093047`*^9}},ExpressionUUID->"5c3e8bb4-d94b-4d63-a275-\
-6f7bee225b11"]
+ CellChangeTimes->{{3.707618670081115*^9, 3.7076186818093047`*^9}, {
+  3.7076191331190104`*^9, 3.7076191463110867`*^9}, {3.707649586568777*^9, 
+  3.707649595849412*^9}},ExpressionUUID->"0fe32b44-7699-4ee7-8072-\
+1e83d1b43d33"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -2959,9 +2979,10 @@ new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
 {imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
 imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
 body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
- CellChangeTimes->{{3.7076186703437424`*^9, 
-  3.707618682265788*^9}},ExpressionUUID->"6e712aeb-9b78-43a5-a876-\
-716b7a90b674"]
+ CellChangeTimes->{{3.7076186703437424`*^9, 3.707618682265788*^9}, {
+  3.7076191335887694`*^9, 3.7076191468874044`*^9}, {3.7076495869848156`*^9, 
+  3.7076495963342204`*^9}},ExpressionUUID->"17eeb038-5f58-48a5-add4-\
+a682b99082df"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -3206,9 +3227,10 @@ new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
 {imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
 imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
 body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
- CellChangeTimes->{{3.7076186708446636`*^9, 
-  3.7076186827259865`*^9}},ExpressionUUID->"ec62a4e2-a60a-4f19-affd-\
-c00bc9cab1fb"]
+ CellChangeTimes->{{3.7076186708446636`*^9, 3.7076186827259865`*^9}, {
+  3.7076191339894094`*^9, 3.7076191474016333`*^9}, {3.7076495874228525`*^9, 
+  3.707649597267247*^9}},ExpressionUUID->"8cff2317-8886-4363-9026-\
+7e60a1ccbcd6"]
 }, Open  ]]
 },
 WindowSize->{666, 637},
@@ -3232,132 +3254,132 @@ Cell[558, 20, 1574, 34, 107, "Input", "ExpressionUUID" -> \
 Cell[CellGroupData[{
 Cell[2157, 58, 861, 13, 30, "Input", "ExpressionUUID" -> \
 "5c6935c1-f057-4486-b973-c5ee81e30c0f"],
-Cell[3021, 73, 1077, 15, 30, "Output", "ExpressionUUID" -> \
-"f79a4b74-afad-4775-8e64-6c01ecc8fc1d"]
+Cell[3021, 73, 1177, 16, 30, "Output", "ExpressionUUID" -> \
+"245dce05-b9c6-4d18-be4c-efe3ade3938c"]
 }, Open  ]],
-Cell[4113, 91, 149, 3, 50, "Input", "ExpressionUUID" -> \
+Cell[4213, 92, 149, 3, 50, "Input", "ExpressionUUID" -> \
 "7ae0d067-aef9-4bb3-a306-255953a7d1a6"],
-Cell[4265, 96, 709, 19, 88, "Input", "ExpressionUUID" -> \
+Cell[4365, 97, 709, 19, 88, "Input", "ExpressionUUID" -> \
 "37cf2e21-8a1d-438a-84ce-4595f59d8907"],
 Cell[CellGroupData[{
-Cell[4999, 119, 394, 7, 30, "Input", "ExpressionUUID" -> \
+Cell[5099, 120, 394, 7, 30, "Input", "ExpressionUUID" -> \
 "e222b64d-4874-4e53-89b3-56188b55b86c"],
-Cell[5396, 128, 587, 9, 30, "Output", "ExpressionUUID" -> \
-"88460085-7e62-424b-806a-692043bc2e14"]
+Cell[5496, 129, 686, 10, 30, "Output", "ExpressionUUID" -> \
+"4b29d5d4-374d-4185-893d-f036a2b7c54c"]
 }, Open  ]],
-Cell[5998, 140, 149, 3, 50, "Input", "ExpressionUUID" -> \
+Cell[6197, 142, 149, 3, 50, "Input", "ExpressionUUID" -> \
 "3e7a08be-6929-4711-9945-b795e0386146"],
-Cell[6150, 145, 1527, 37, 164, "Input", "ExpressionUUID" -> \
+Cell[6349, 147, 1527, 37, 164, "Input", "ExpressionUUID" -> \
 "d311519c-1942-4758-a2ba-fcb671bfabd5"],
 Cell[CellGroupData[{
-Cell[7702, 186, 518, 8, 30, "Input", "ExpressionUUID" -> \
+Cell[7901, 188, 518, 8, 30, "Input", "ExpressionUUID" -> \
 "fc0471fa-5aeb-474d-bb2b-19d5899c62f4"],
-Cell[8223, 196, 666, 10, 30, "Output", "ExpressionUUID" -> \
-"f129514a-c0ae-46c3-8fd0-a32e866fa2a2"]
+Cell[8422, 198, 764, 11, 30, "Output", "ExpressionUUID" -> \
+"06f0752b-bb1d-41ad-9c95-f3fd5148892b"]
 }, Open  ]],
-Cell[8904, 209, 147, 3, 50, "Input", "ExpressionUUID" -> \
+Cell[9201, 212, 147, 3, 50, "Input", "ExpressionUUID" -> \
 "d5a76993-3e94-4f92-8485-ac60b021686b"],
-Cell[9054, 214, 1651, 40, 145, "Input", "ExpressionUUID" -> \
+Cell[9351, 217, 1651, 40, 145, "Input", "ExpressionUUID" -> \
 "d02bbe07-955a-4ce4-996e-48ae60058fe5"],
 Cell[CellGroupData[{
-Cell[10730, 258, 735, 11, 30, "Input", "ExpressionUUID" -> \
+Cell[11027, 261, 735, 11, 30, "Input", "ExpressionUUID" -> \
 "75cd69b8-3812-4a29-8b44-cb34a77aa6d5"],
-Cell[11468, 271, 1608, 22, 30, "Output", "ExpressionUUID" -> \
-"3ee682e1-250c-489f-a27e-9360545eb29a"]
+Cell[11765, 274, 1706, 23, 30, "Output", "ExpressionUUID" -> \
+"8f08bd90-15b2-4304-87af-84da9fb250a3"]
 }, Open  ]],
-Cell[13091, 296, 147, 3, 50, "Input", "ExpressionUUID" -> \
+Cell[13486, 300, 147, 3, 50, "Input", "ExpressionUUID" -> \
 "db99c440-d943-4fef-8ca8-3dab04f49741"],
-Cell[13241, 301, 1578, 33, 107, "Input", "ExpressionUUID" -> \
+Cell[13636, 305, 1578, 33, 107, "Input", "ExpressionUUID" -> \
 "5c004730-3f0f-4a4e-8aa5-27ca4e245eaf"],
 Cell[CellGroupData[{
-Cell[14844, 338, 926, 14, 30, "Input", "ExpressionUUID" -> \
+Cell[15239, 342, 926, 14, 30, "Input", "ExpressionUUID" -> \
 "3f3db842-769b-46f9-ac2f-3ed52385582d"],
-Cell[15773, 354, 1395, 19, 30, "Output", "ExpressionUUID" -> \
-"c403b97b-3ecf-4bcb-812d-a63c28678ee1"]
+Cell[16168, 358, 1497, 21, 30, "Output", "ExpressionUUID" -> \
+"d662a748-ad34-4d71-b375-d4eff893a71b"]
 }, Open  ]],
-Cell[17183, 376, 147, 3, 50, "Input", "ExpressionUUID" -> \
+Cell[17680, 382, 147, 3, 50, "Input", "ExpressionUUID" -> \
 "058b0cf9-b2e5-4566-a460-2eed7da95a50"],
 Cell[CellGroupData[{
-Cell[17355, 383, 1994, 44, 164, "Input", "ExpressionUUID" -> \
+Cell[17852, 389, 1994, 44, 164, "Input", "ExpressionUUID" -> \
 "a16f3670-e42a-49f2-9abb-b9156feb6970"],
-Cell[19352, 429, 1102, 15, 69, "Output", "ExpressionUUID" -> \
-"148f4847-2aa5-4785-ab88-c4337cfa170b"]
+Cell[19849, 435, 1208, 17, 69, "Output", "ExpressionUUID" -> \
+"c05aaf1d-3531-4390-961d-6fde1ffeb62b"]
 }, Open  ]],
-Cell[20469, 447, 147, 3, 50, "Input", "ExpressionUUID" -> \
+Cell[21072, 455, 147, 3, 50, "Input", "ExpressionUUID" -> \
 "63af47f5-fb80-4afb-9b99-00ef79ccafb0"],
 Cell[CellGroupData[{
-Cell[20641, 454, 2207, 48, 164, "Input", "ExpressionUUID" -> \
+Cell[21244, 462, 2259, 49, 164, "Input", "ExpressionUUID" -> \
 "5d7014c9-5ed0-4f1b-b8d5-a4e037b317a9"],
-Cell[22851, 504, 1073, 15, 30, "Output", "ExpressionUUID" -> \
-"990bf95d-80d7-40c3-8844-e27d99fe7178"]
+Cell[23506, 513, 1213, 17, 30, "Output", "ExpressionUUID" -> \
+"7384793a-9b7b-4607-b0d8-62485553fe1b"]
 }, Open  ]],
-Cell[23939, 522, 149, 3, 50, "Input", "ExpressionUUID" -> \
+Cell[24734, 533, 149, 3, 50, "Input", "ExpressionUUID" -> \
 "3209fb44-0a51-4c18-b2d7-e83e5e934f0e"],
 Cell[CellGroupData[{
-Cell[24113, 529, 3497, 69, 278, "Input", "ExpressionUUID" -> \
+Cell[24908, 540, 3497, 69, 278, "Input", "ExpressionUUID" -> \
 "cc4f2620-2606-4a8e-8752-c22a8cbc7071"],
-Cell[27613, 600, 539, 9, 30, "Output", "ExpressionUUID" -> \
-"4aa96832-7aa3-4d41-943c-64c9279c908d"]
+Cell[28408, 611, 642, 11, 30, "Output", "ExpressionUUID" -> \
+"76ddfd8e-e0ad-41ec-976d-7dd5a8881001"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[28189, 614, 678, 13, 240, "Input", "ExpressionUUID" -> \
+Cell[29087, 627, 678, 13, 240, "Input", "ExpressionUUID" -> \
 "435eb10f-492a-4b5c-89c5-754acc66cf7f"],
-Cell[28870, 629, 14860, 216, 7175, "Output", "ExpressionUUID" -> \
-"14bae22c-1f78-499a-9866-42b72df0ccae"]
+Cell[29768, 642, 14957, 217, 7175, "Output", "ExpressionUUID" -> \
+"43aa03be-eb86-4454-94a1-5292d607f785"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[43767, 850, 318, 8, 50, "Input", "ExpressionUUID" -> \
+Cell[44762, 864, 318, 8, 50, "Input", "ExpressionUUID" -> \
 "81646abc-704d-4023-8d68-3ddd0c5dd449"],
-Cell[44088, 860, 18625, 270, 8505, "Output", "ExpressionUUID" -> \
-"a58bac6c-0683-4c15-9324-8d300d839490"]
+Cell[45083, 874, 18724, 271, 8505, "Output", "ExpressionUUID" -> \
+"47da3fce-672b-49ea-8e80-ec4a90177f70"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[62750, 1135, 622, 12, 50, "Input", "ExpressionUUID" -> \
+Cell[63844, 1150, 622, 12, 50, "Input", "ExpressionUUID" -> \
 "b8ff5333-680f-4ef8-a5e9-b44bbd47b963"],
-Cell[63375, 1149, 16594, 242, 7840, "Output", "ExpressionUUID" -> \
-"79935bd4-d168-4f1c-ad53-6a72a8df8ea6"]
+Cell[64469, 1164, 16689, 242, 7840, "Output", "ExpressionUUID" -> \
+"b2fff3a5-58a9-4861-8c07-7117f141a1e3"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[80006, 1396, 624, 12, 50, "Input", "ExpressionUUID" -> \
+Cell[81195, 1411, 624, 12, 50, "Input", "ExpressionUUID" -> \
 "f4d05737-b292-4210-9b23-aaddf35e08bb"],
-Cell[80633, 1410, 14854, 215, 7175, "Output", "ExpressionUUID" -> \
-"8ed74f8b-2486-4c9e-9bf8-69a3e7f6511c"]
+Cell[81822, 1425, 14955, 216, 7175, "Output", "ExpressionUUID" -> \
+"2b07ef08-0837-4d11-b9f0-1ab049ac2025"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[95524, 1630, 412, 9, 30, "Input", "ExpressionUUID" -> \
+Cell[96814, 1646, 412, 9, 30, "Input", "ExpressionUUID" -> \
 "46af98d8-0ada-478d-b570-80f1f308a362"],
-Cell[95939, 1641, 17878, 264, 8239, "Output", "ExpressionUUID" -> \
-"832d6e53-af25-401b-856b-fd6ecda11d67"]
+Cell[97229, 1657, 17977, 265, 8239, "Output", "ExpressionUUID" -> \
+"cd420c1f-773c-4102-952e-b335a78a524b"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[113854, 1910, 315, 8, 30, "Input", "ExpressionUUID" -> \
+Cell[115243, 1927, 315, 8, 30, "Input", "ExpressionUUID" -> \
 "46191027-f272-4f6d-af27-06a34417986e"],
-Cell[114172, 1920, 17404, 253, 8144, "Output", "ExpressionUUID" -> \
-"80f47d2b-8641-4418-a64b-7be047cef85f"]
+Cell[115561, 1937, 17501, 254, 8144, "Output", "ExpressionUUID" -> \
+"b7cc0b99-a603-46b9-a3f7-88f2fa7a6fa5"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[131613, 2178, 315, 8, 30, "Input", "ExpressionUUID" -> \
+Cell[133099, 2196, 315, 8, 30, "Input", "ExpressionUUID" -> \
 "3f4301d1-0381-480b-bbbd-22b134153d27"],
-Cell[131931, 2188, 16443, 237, 7726, "Output", "ExpressionUUID" -> \
-"11356fe5-c501-432d-bddb-0ec7984cb031"]
+Cell[133417, 2206, 16544, 238, 7726, "Output", "ExpressionUUID" -> \
+"2cbdad43-67b9-4457-8317-add71ce39eb1"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[148411, 2430, 314, 8, 30, "Input", "ExpressionUUID" -> \
+Cell[149998, 2449, 314, 8, 30, "Input", "ExpressionUUID" -> \
 "26a30a0c-3538-47f8-bb29-c6e77e34022b"],
-Cell[148728, 2440, 14903, 215, 7175, "Output", "ExpressionUUID" -> \
-"5c3e8bb4-d94b-4d63-a275-6f7bee225b11"]
+Cell[150315, 2459, 15002, 216, 7175, "Output", "ExpressionUUID" -> \
+"0fe32b44-7699-4ee7-8072-1e83d1b43d33"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[163668, 2660, 313, 8, 30, "Input", "ExpressionUUID" -> \
+Cell[165354, 2680, 313, 8, 30, "Input", "ExpressionUUID" -> \
 "cf531174-1367-4cf3-8c21-5d68784f90d0"],
-Cell[163984, 2670, 20030, 293, 9094, "Output", "ExpressionUUID" -> \
-"6e712aeb-9b78-43a5-a876-716b7a90b674"]
+Cell[165670, 2690, 20133, 294, 9094, "Output", "ExpressionUUID" -> \
+"17eeb038-5f58-48a5-add4-a682b99082df"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[184051, 2968, 308, 8, 30, "Input", "ExpressionUUID" -> \
+Cell[185840, 2989, 308, 8, 30, "Input", "ExpressionUUID" -> \
 "658ab87c-a8dd-4260-b71e-6f939d83020b"],
-Cell[184362, 2978, 15935, 232, 7517, "Output", "ExpressionUUID" -> \
-"ec62a4e2-a60a-4f19-affd-c00bc9cab1fb"]
+Cell[186151, 2999, 16036, 233, 7517, "Output", "ExpressionUUID" -> \
+"8cff2317-8886-4363-9026-7e60a1ccbcd6"]
 }, Open  ]]
 }
 ]
