@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    207973,       3379]
-NotebookOptionsPosition[    202203,       3235]
-NotebookOutlinePosition[    202545,       3250]
-CellTagsIndexPosition[    202502,       3247]
+NotebookDataLength[    224224,       3624]
+NotebookOptionsPosition[    218208,       3474]
+NotebookOutlinePosition[    218550,       3489]
+CellTagsIndexPosition[    218507,       3486]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -86,8 +86,10 @@ Cell[BoxData["\<\"Sweden\"\>"], "Output",
    3.7076113544511466`*^9, 3.707611434296109*^9, {3.707614656487569*^9, 
    3.7076146643853765`*^9}, {3.7076186649201293`*^9, 3.707618675925864*^9}, {
    3.7076191274489965`*^9, 3.707619140548196*^9}, {3.7076495815755796`*^9, 
-   3.707649590305797*^9}},ExpressionUUID->"245dce05-b9c6-4d18-be4c-\
-efe3ade3938c"]
+   3.707649590305797*^9}, {3.7076853528654184`*^9, 3.70768536459356*^9}, {
+   3.707685397123152*^9, 3.707685451423869*^9}, {3.7076908537208834`*^9, 
+   3.7076908701511145`*^9}},ExpressionUUID->"e2cd8932-7a83-4fbf-b2f8-\
+a014d09fcd29"]
 }, Open  ]],
 
 Cell[BoxData["\[IndentingNewLine]"], "Input",
@@ -136,8 +138,10 @@ Cell[BoxData["\<\"Shams ad-Din  Al-Bukhari\"\>"], "Output",
    3.7076113548678923`*^9, 3.70761143055973*^9, {3.7076146566032667`*^9, 
    3.707614664489569*^9}, {3.707618665151479*^9, 3.7076186760497656`*^9}, {
    3.7076191275648766`*^9, 3.70761914066399*^9}, {3.707649581691234*^9, 
-   3.7076495904061074`*^9}},ExpressionUUID->"4b29d5d4-374d-4185-893d-\
-f036a2b7c54c"]
+   3.7076495904061074`*^9}, {3.707685353297682*^9, 3.70768536486311*^9}, {
+   3.7076853974275384`*^9, 3.7076854514707437`*^9}, {3.707690854068578*^9, 
+   3.707690870389143*^9}},ExpressionUUID->"79f2f53a-604c-4509-a18c-\
+892a304475cc"]
 }, Open  ]],
 
 Cell[BoxData["\[IndentingNewLine]"], "Input",
@@ -205,9 +209,11 @@ Cell[BoxData["\<\"Dr. phil.\"\>"], "Output",
    3.707516696212934*^9}, 3.707573069042539*^9, 3.707611355205351*^9, 
    3.707611426711325*^9, {3.707614656725665*^9, 3.7076146646054688`*^9}, {
    3.7076186653051324`*^9, 3.707618676183073*^9}, {3.7076191276963882`*^9, 
-   3.70761914079533*^9}, {3.7076495818292685`*^9, 
-   3.70764959052804*^9}},ExpressionUUID->"06f0752b-bb1d-41ad-9c95-\
-f3fd5148892b"]
+   3.70761914079533*^9}, {3.7076495818292685`*^9, 3.70764959052804*^9}, {
+   3.707685353651906*^9, 3.7076853651209927`*^9}, {3.7076853978425703`*^9, 
+   3.7076854515085044`*^9}, {3.7076908544861927`*^9, 
+   3.7076908706205115`*^9}},ExpressionUUID->"9161584c-f602-4d3a-96ca-\
+815a3ba9cc92"]
 }, Open  ]],
 
 Cell[BoxData["\[IndentingNewLine]"], "Input",
@@ -294,8 +300,10 @@ Cell[BoxData["\<\"Universit&auml;t Helmstedt\"\>"], "Output",
    3.7076113555222387`*^9, 3.7076114231549644`*^9, {3.7076146568728085`*^9, 
    3.7076146647057457`*^9}, {3.7076186654576464`*^9, 3.707618676287529*^9}, {
    3.7076191278500414`*^9, 3.707619140911254*^9}, {3.707649581960337*^9, 
-   3.707649590644167*^9}},ExpressionUUID->"8f08bd90-15b2-4304-87af-\
-84da9fb250a3"]
+   3.707649590644167*^9}, {3.7076853539840364`*^9, 3.707685365395122*^9}, {
+   3.7076853982579107`*^9, 3.7076854515553846`*^9}, {3.707690855092953*^9, 
+   3.707690870851862*^9}},ExpressionUUID->"45f91b7d-2823-409e-8193-\
+d01081919fbd"]
 }, Open  ]],
 
 Cell[BoxData["\[IndentingNewLine]"], "Input",
@@ -375,9 +383,11 @@ Cell[BoxData["\<\"1717\"\>"], "Output",
    3.7076072701184044`*^9, 3.707611355785307*^9, 3.707611419669139*^9, {
    3.707614656957455*^9, 3.707614664821669*^9}, {3.7076186655524087`*^9, 
    3.707618676403417*^9}, {3.707619127997182*^9, 3.707619141026684*^9}, {
-   3.707649582044978*^9, 
-   3.7076495907441487`*^9}},ExpressionUUID->"d662a748-ad34-4d71-b375-\
-d4eff893a71b"]
+   3.707649582044978*^9, 3.7076495907441487`*^9}, {3.70768535428488*^9, 
+   3.707685365511014*^9}, {3.707685398397009*^9, 3.707685451608269*^9}, {
+   3.707690855439991*^9, 
+   3.7076908712217817`*^9}},ExpressionUUID->"944b8578-8344-4e81-a7cf-\
+8005307c921d"]
 }, Open  ]],
 
 Cell[BoxData["\[IndentingNewLine]"], "Input",
@@ -419,7 +429,7 @@ Cell[BoxData[{
         RowBox[{"[", "1", "]"}], "]"}], ",", 
        RowBox[{"Missing", "[", "]"}]}], "]"}]}], "]"}]}], 
   ";"}], "\[IndentingNewLine]", 
- RowBox[{"takeDissertation", "[", "gauss", "]"}]}], "Input",
+ RowBox[{"takeDissertation", "[", "spikes", "]"}]}], "Input",
  CellChangeTimes->{{3.707267403245514*^9, 3.7072674670987697`*^9}, {
    3.7072675160090513`*^9, 3.707267565934918*^9}, 3.7072682302303915`*^9, {
    3.707269019437096*^9, 3.707269059096562*^9}, {3.707269294164873*^9, 
@@ -430,12 +440,12 @@ Cell[BoxData[{
    3.7075139167114964`*^9, 3.7075139353000894`*^9}, {3.707515448248045*^9, 
    3.707515451499734*^9}, {3.707515985518156*^9, 3.707515987502573*^9}, {
    3.7075667795134287`*^9, 3.707566782768243*^9}, {3.707572915126009*^9, 
-   3.707572915680831*^9}},ExpressionUUID->"a16f3670-e42a-49f2-9abb-\
+   3.707572915680831*^9}, {3.7076739177874203`*^9, 
+   3.7076739187887945`*^9}},ExpressionUUID->"a16f3670-e42a-49f2-9abb-\
 b9156feb6970"],
 
-Cell[BoxData["\<\"Demonstratio nova theorematis omnem functionem algebraicam \
-rationalem integram unius variabilis in factores reales primi vel secundi \
-gradus resolvi posse\"\>"], "Output",
+Cell[BoxData["\<\"Behavior of the Solutions of the differntial Equation Y'' \
+Plus QY('P)=R Dissertation Abstract for Equation***\"\>"], "Output",
  CellChangeTimes->{{3.7072675459788127`*^9, 3.707267566581802*^9}, 
    3.707268231715082*^9, {3.707269020053271*^9, 3.7072690593971586`*^9}, {
    3.7072693021865177`*^9, 3.7072693078871746`*^9}, {3.707269428672609*^9, 
@@ -448,9 +458,11 @@ gradus resolvi posse\"\>"], "Output",
    3.7075729162122345`*^9, 3.70761135607018*^9, 3.7076114123339562`*^9, {
    3.707614657088969*^9, 3.707614664890665*^9}, {3.7076186656901054`*^9, 
    3.7076186764880652`*^9}, {3.7076191281344404`*^9, 3.707619141111334*^9}, {
-   3.7076495822298822`*^9, 
-   3.7076495908287945`*^9}},ExpressionUUID->"c05aaf1d-3531-4390-961d-\
-6fde1ffeb62b"]
+   3.7076495822298822`*^9, 3.7076495908287945`*^9}, 3.7076739194427214`*^9, 
+   3.707677467471528*^9, {3.7076853546009607`*^9, 3.7076853657115593`*^9}, {
+   3.707685398635177*^9, 3.7076854516396475`*^9}, {3.707690855956349*^9, 
+   3.7076908713871207`*^9}},ExpressionUUID->"07c11f64-9e47-4d93-9f5d-\
+7abdbdccfb8f"]
 }, Open  ]],
 
 Cell[BoxData["\[IndentingNewLine]"], "Input",
@@ -526,9 +538,11 @@ Cell[BoxData["\<\"Mechanics of deformable solids\"\>"], "Output",
    3.7076114088850965`*^9, {3.7076146572738714`*^9, 3.707614664968791*^9}, {
    3.707618665821892*^9, 3.7076186765661926`*^9}, {3.707619128266453*^9, 
    3.7076191412112875`*^9}, {3.707649582361166*^9, 3.70764959090695*^9}, {
-   3.707651022896452*^9, 
-   3.7076510426803837`*^9}},ExpressionUUID->"7384793a-9b7b-4607-b0d8-\
-62485553fe1b"]
+   3.707651022896452*^9, 3.7076510426803837`*^9}, {3.707685354923944*^9, 
+   3.707685365911339*^9}, {3.7076853988548326`*^9, 3.7076854516708984`*^9}, {
+   3.7076908563410854`*^9, 
+   3.7076908715378523`*^9}},ExpressionUUID->"68badec6-3197-402a-a053-\
+bfad67ecc3ca"]
 }, Open  ]],
 
 Cell[BoxData["\[IndentingNewLine]"], "Input",
@@ -618,9 +632,11 @@ Cell[BoxData[
    3.707573698192668*^9}, 3.707611356555231*^9, 3.707611405198724*^9, {
    3.707614657374136*^9, 3.707614665037841*^9}, {3.707618665922064*^9, 
    3.7076186766415553`*^9}, {3.70761912835109*^9, 3.707619141295944*^9}, {
-   3.7076495824458103`*^9, 
-   3.7076495909757147`*^9}},ExpressionUUID->"76ddfd8e-e0ad-41ec-976d-\
-7dd5a8881001"]
+   3.7076495824458103`*^9, 3.7076495909757147`*^9}, {3.707685355271666*^9, 
+   3.707685366061004*^9}, {3.7076853990484695`*^9, 3.7076854541167192`*^9}, {
+   3.707690856626334*^9, 
+   3.7076908716915164`*^9}},ExpressionUUID->"2f61021e-11b8-4fed-8e23-\
+bf105b599ba4"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -854,10 +870,232 @@ new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
 {imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
 imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
 body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
- CellChangeTimes->{{3.7076186669389195`*^9, 3.7076186772355747`*^9}, {
-  3.707619129156935*^9, 3.707619141927355*^9}, {3.7076495832728815`*^9, 
-  3.707649591506997*^9}},ExpressionUUID->"43aa03be-eb86-4454-94a1-\
-5292d607f785"]
+ CellChangeTimes->{{3.707685355857686*^9, 3.7076853663651977`*^9}, {
+  3.7076853992932596`*^9, 3.707685454576743*^9}, {3.707690858126726*^9, 
+  3.7076908723077354`*^9}},ExpressionUUID->"f1376501-ec87-4110-91d2-\
+884f8fae89a7"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"spikes", "=", 
+  RowBox[{"Import", "[", 
+   RowBox[{
+   "\"\<https://genealogy.math.ndsu.nodak.edu/id.php?id=20249\>\"", ",", 
+    "\"\<Source\>\""}], "]"}]}]], "Input",
+ CellChangeTimes->{{3.707673894306986*^9, 
+  3.707673905518154*^9}},ExpressionUUID->"eee9d092-4dcf-4c27-b110-\
+f8807eaa235e"],
+
+Cell[BoxData["\<\"<!DOCTYPE html>\\n<meta \
+charset=\\\"UTF-8\\\">\\n<html>\\n<head>\\n\\n<meta \
+http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" \
+/>\\n<title>Paul Spikes - The Mathematics Genealogy Project</title>\\n<style \
+type=\\\"text/css\\\"> \\nbody  {\\n\\tmargin: 0; /* it's good practice to \
+zero the margin and padding of the body element to account for differing \
+browser defaults */\\n\\tpadding: 0;\\n\\ttext-align: center; /* this centers \
+the container in IE 5* browsers. The text is then set to the left aligned \
+default in the #container selector */\\n\\tcolor: #000000;\\n\\tfont-family: \
+Arial, Helvetica, sans-serif;\\n\\tfont-size: 100%;\\n\\tbackground-color: \
+#5E8059;\\n}\\n.twoColFixLtHdr #container {\\n\\twidth: 780px;  /* using 20px \
+less than a full 800px width allows for browser chrome and avoids a \
+horizontal scroll bar */\\n\\tbackground: #FFFFFF; /* the auto margins (in \
+conjunction with a width) center the page */\\n\\tborder: 1px solid \
+#000000;\\n\\ttext-align: left; /* this overrides the text-align: center on \
+the body element. */\\n\\tmargin-top: 0;\\n\\tmargin-right: \
+auto;\\n\\tmargin-bottom: 0;\\n\\tmargin-left: auto;\\n} \\n.twoColFixLtHdr \
+#header {\\n\\tpadding: 0 10px 0 20px;  /* this padding matches the left \
+alignment of the elements in the divs that appear beneath it. If an image is \
+used in the #header instead of text, you may want to remove the padding. \
+*/\\n\\ttext-align: right;\\n\\tbackground-color: #CACC8F;\\n\\theight: 57px;\
+\\n} \\n.twoColFixLtHdr #header h1 {\\n\\tmargin: 0; /* zeroing the margin of \
+the last element in the #header div will avoid margin collapse - an \
+unexplainable space between divs. If the div has a border around it, this is \
+not necessary as that also avoids the margin collapse */\\n\\tpadding: 10px \
+0; /* using padding instead of margin will allow you to keep the element away \
+from the edges of the div */\\n}\\n\\n.twoColFixLtHdr #main-tile { \
+background: #8BBC83; }\\n.twoColFixLtHdr #column-tile { padding-right: 550px; \
+background: white; width: 180px }\\n.twoColFixLtHdr #sidebar1 {\\n\\tfloat: \
+left; /* since this element is floated, a width must be given */\\n\\twidth: \
+160px; /* the background color will be displayed for the length of the \
+content in the column, but no further */\\n\\tpadding: 15px 10px 15px \
+10px;\\n\\tbackground: #8BBC83;\\n\\tfont-size: small;\\n\\ttext-align: \
+center;\\n}\\n   .twoColFixLtHdr #sidebar1 p a:link {\\n color: navy;\\n    }\
+\\n.twoColFixLtHdr #mainContent { \\n  float: left;\\n width: 600px;\\n  \
+margin-right: -600px;\\n position: relative;\\n\\n\\n} \\n   .twoColFixLtHdr \
+#paddingWrapper {\\n      padding: 5px 20px;\\n\\t}\\n.twoColFixLtHdr #footer \
+{\\n\\tpadding: 10px 10px 0 10px;\\n\\ttext-align: center;\\n\\tfont-size: \
+small;\\n\\tfont-weight: normal;\\n\\tbackground-color: #CACC8F;\\n} \
+\\n.clearfix:after {\\n    content: \\\".\\\"; \\n    display: block; \\n    \
+height: 0; \\n    clear: both; \\n    visibility: hidden;\\n}\\n\\n.clearfix \
+{display: inline-table;}\\n\\n\\n.twoColFixLtHdr #footer p {\\n\\tmargin: 0; \
+/* zeroing the margins of the first element in the footer will avoid the \
+possibility of margin collapse - a space between divs */\\n\\tpadding: 10px \
+0; /* padding on this element will create space, just as the the margin would \
+have, without the margin collapse issue */\\n}\\n.fltrt { /* this class can \
+be used to float an element right in your page. The floated element must \
+precede the element it should be next to on the page. */\\n\\tfloat: \
+right;\\n\\tmargin-left: 8px;\\n}\\n.fltlft { /* this class can be used to \
+float an element left in your page */\\n\\tfloat: left;\\n\\tmargin-right: \
+8px;\\n}\\n.clearfloat { /* this class should be placed on a div or break \
+element and should be the final element before the close of a container that \
+should fully contain a float */\\n\\tclear:both;\\n    height:0;\\n    \
+font-size: 1px;\\n    line-height: 0px;\\n}\\nth {\\n    text-align: \
+center;\\n}\\n\\n</style>\\n<!--[if IE 5]>\\n<style type=\\\"text/css\\\"> \
+\\n/* place css box model fixes for IE 5* in this conditional comment \
+*/\\n.twoColFixLtHdr #sidebar1 { width: 190px; \
+}\\n</style>\\n<![endif]--><!--[if IE]>\\n<style type=\\\"text/css\\\"> \\n/* \
+place css fixes for all versions of IE in this conditional comment \
+*/\\n.twoColFixLtHdr #sidebar1 { padding-top: 30px; }\\n.twoColFixLtHdr \
+#mainContent { zoom: 1; }\\n/* the above proprietary zoom property gives IE \
+the hasLayout it needs to avoid several bugs \
+*/\\n</style>\\n<![endif]-->\\n<script src=\\\"SpryAssets/SpryMenuBar.js\\\" \
+type=\\\"text/javascript\\\"></script>\\n<link \
+href=\\\"SpryAssets/SpryMenuBarVertical.css\\\" rel=\\\"stylesheet\\\" \
+type=\\\"text/css\\\" />\\n<link \
+href=\\\"SpryAssets/SpryMenuBarHorizontal.css\\\" rel=\\\"stylesheet\\\" \
+type=\\\"text/css\\\" />\\n<script type=\\\"text/javascript\\\" \
+src=\\\"jquery.js\\\"></script>\\n  <script type=\\\"text/javascript\\\"> \
+\\n</script>\\n\\n<script type=\\\"text/javascript\\\">\\n\\n    var _gaq = \
+_gaq || [];\\n_gaq.push(['_setAccount', \
+'UA-16329138-2']);\\n_gaq.push(['_setDomainName','none']);\\n_gaq.push(['\
+setAllowLinker',true]);\\n_gaq.push(['_trackPageview']);\\n\\n(function() \
+{\\n  var ga = document.createElement('script'); ga.type = 'text/javascript'; \
+ga.async = true;\\n  ga.src = ('https:' == document.location.protocol ? \
+'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\\n  var s = \
+document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\
+\\n })();\\n\\n</script></head>\\n\\n<body \
+class=\\\"twoColFixLtHdr\\\">\\n\\n<div id=\\\"container\\\">\\n  <div \
+id=\\\"header\\\">\\n    <a href=\\\"index.php\\\"><img \
+src=\\\"images/tree-small.gif\\\" alt=\\\"Tree\\\" width=\\\"46\\\" height=\\\
+\"57\\\" style=\\\"border: 0\\\" class=\\\"fltlft\\\" title=\\\"tree\\\" \
+/></a>\\n    <h1>Mathematics Genealogy Project</h1>\\n  <!-- end #header \
+--></div>\\n  <div id=\\\"column-tile\\\">\\n  <div id=\\\"main-tile\\\" \
+class=\\\"clearfix\\\">\\n  <div id=\\\"sidebar1\\\">\\n    <ul \
+id=\\\"MenuBar1\\\" class=\\\"MenuBarVertical\\\">\\n      <li><a \
+href=\\\"index.php\\\">Home</a></li>\\n      <li><a \
+href=\\\"search.php\\\">Search</a></li>\\n      <li><a href=\\\"extrema.php\\\
+\">Extrema</a></li>\\n      <li><a href=\\\"about.php\\\" \
+class=\\\"MenuBarItemSubmenu\\\">About MGP</a>\\n        <ul>\\n          \
+<li><a href=\\\"mission.php\\\">Mission</a></li>\\n\\t<li><a \
+href=\\\"http://www.ams.org/notices/200708/tx070801002p.pdf\\\">History \
+(PDF)</a></li>\\n<li><a \
+href=\\\"https://epayment.ndus.nodak.edu/C22800_ustores/web/product_detail.\
+jsp?PRODUCTID=2989&amp;SINGLESTORE=true\\\">Support Us</a></li>\\n            \
+<li><a href=\\\"news.php\\\" title=\\\"Announcements\\\">News</a></li>\\n     \
+       <li><a href=\\\"staff.php\\\">Staff</a></li>\\n            <li><a \
+href=\\\"recognition.php\\\">Recognition</a></li>\\n            <li><a \
+href=\\\"acknowledgments.php\\\">Acknowledgments</a></li>\\n          \
+</ul>\\n      </li>\\n      <li><a href=\\\"links.php\\\">Links</a></li>\\n   \
+   <li><a href=\\\"faq.php\\\" title=\\\"Frequently Asked \
+Questions\\\">FAQs</a></li>\\n      <li><a \
+href=\\\"posters.php\\\">Posters</a></li>\\n      <li><a \
+href=\\\"submit.php\\\">Submit Data</a></li>\\n      <li><a \
+href=\\\"contact.php\\\">Contact</a></li>\\n      <li><a href=\\\"mirrors.php\
+\\\" class=\\\"MenuBarItemSubmenu\\\">Mirrors</a>\\n        <ul>\\n\\n        \
+  <li><a href=\\\"http://www.genealogy.math.ndsu.nodak.edu/\\\" \
+onclick=\\\"pageTracker._link(this.href); return false;\\\">NDSU \
+(main)</a></li>\\n          <li><a href=\\\"http://www.genealogy.ams.org/\\\" \
+onclick=\\\"pageTracker._link(this.href); return false;\\\">AMS</a></li>\\n   \
+       <li><a href=\\\"http://www.math.uni-bielefeld.de/genealogy\\\" \
+onclick=\\\"pageTracker._link(this.href); return \
+false;\\\">Bielefeld</a></li>\\n          <li><a \
+href=\\\"http://genealogy.impa.br/\\\" \
+onclick=\\\"pageTracker._link(this.href); return false;\\\">IMPA</a></li>\\n  \
+      </ul>\\n\\t<li><a \
+href=\\\"https://epayment.ndus.nodak.edu/C22800_ustores/web/product_detail.\
+jsp?PRODUCTID=2989&SINGLESTORE=true\\\">Donate</a></li>\\n      </li>\\n    \
+</ul>\\n\\n<p>A \\nservice of the <a \
+href=\\\"https://www.ndsu.edu/\\\">NDSU</a> <a \
+href=\\\"https://www.ndsu.edu/math/\\\">Department of Mathematics</a>, in \
+association with the <a href=\\\"http://www.ams.org/\\\">American \
+Mathematical Society</a>.</p>\\n\\n  <!-- end #sidebar1 --></div>\\n  <div \
+id=\\\"mainContent\\\"><div id=\\\"paddingWrapper\\\">\\n<script \
+type=\\\"text/x-mathjax-config\\\">\\n  MathJax.Hub.Config({\\n    tex2jax: {\
+\\n      inlineMath: [ ['$','$'], [\\\"\\\\\\\\(\\\",\\\"\\\\\\\\)\\\"] ],\\n\
+\\t  processEscapes: true\\n\\t  }\\n    });\\n</script>\\n<script \
+type=\\\"text/javascript\\\">// https://codepen.io/pkra/pen/GWePxW, by Peter \
+Krautzberger, 2017-04-04\\n  // helper: insert MathJax script tage using \
+CDNJS and \\nvar insertMathJax = function(version) {\\n\\tscript = \
+document.createElement('script');\\n\\tscript.type = \
+'text/javascript';\\n\\tscript.async = true;\\n\\tscript.src = \
+'https://cdnjs.cloudflare.com/ajax/libs/mathjax/' + version + \
+'/MathJax.js?config=TeX-AMS_CHTML-full';\\n\\tdocument.getElementsByTagName('\
+head')[0].appendChild(script);\\n}\\n\\n// Look up latest version on CDNJS \
+and insertMathJax\\nvar xmlHttp = new \
+XMLHttpRequest();\\nxmlHttp.onreadystatechange = function() {\\n\\tif \
+(xmlHttp.readyState == 4 && xmlHttp.status == \
+200)\\n\\t\\tinsertMathJax(JSON.parse(xmlHttp.responseText).version);\\n}\\n\\\
+txmlHttp.open('GET', \
+'https://api.cdnjs.com/libraries/mathjax?fields=version', true); \
+\\nxmlHttp.send(null);\\n</script>\\n\\n<h2 style=\\\"text-align: center; \
+margin-bottom: 0.5ex; margin-top: 1ex\\\">\\nPaul Winton Spikes </h2>\\n\\n<p \
+style=\\\"text-align: center; margin-top: 0; margin-bottom: 0px; font-size: \
+small\\\">\\n <a \
+href=\\\"http://www.ams.org/mathscinet/MRAuthorID/165565\\\">MathSciNet</a>\\\
+n</p>\\n\\n<div style=\\\"margin-left: auto; margin-right: auto; width: 300px\
+\\\"><hr style=\\\"width: 300px; height: 0; border-style: solid; \
+border-width: 2px 0 0 0; color: gray; background-color: gray\\\" \
+/></div>\\n\\n<div style=\\\"line-height: 30px; text-align: center; \
+margin-bottom: 1ex\\\">\\n  <span style=\\\"margin-right: 0.5em\\\">Ph.D. \
+<span style=\\\"color:\\n  #006633; margin-left: 0.5em\\\">Auburn \
+University</span> 1970</span>\\n\\n<img \
+src=\\\"img/flags/UnitedStates.gif\\\" alt=\\\"UnitedStates\\\" \
+width=\\\"57\\\" height=\\\"30\\\" style=\\\"border: 0; vertical-align: \
+middle\\\" title=\\\"UnitedStates\\\" />\\n</div>\\n\\n\\n<div \
+style=\\\"text-align: center\\\"><span style=\\\"color: \
+#000066\\\">Dissertation:</span> <span style=\\\"font-style:italic\\\" \
+id=\\\"thesisTitle\\\">\\n\\nBehavior of the Solutions of the differntial \
+Equation Y'' Plus QY('P)=R Dissertation Abstract for Equation***</span></div>\
+\\n\\n<p style=\\\"text-align: center; line-height: 2.75ex\\\">Advisor: <a \
+href=\\\"id.php?id=18118\\\">Leonard P. Burton</a><br /></p><p \
+style=\\\"text-align: center\\\">No students known.</p>\\n<p \
+style=\\\"font-size: small; text-align: center\\\">If you have additional \
+information or\\n corrections regarding this mathematician, please use the <a\
+\\n href=\\\"submit-data.php?id=20249&amp;edit=0\\\">update form</a>. To \
+submit students of this\\n mathematician, please use the <a \
+href=\\\"submit-data.php?id=NEW&amp;edit=0\\\">new\\n\\t    data form</a>, \
+noting this mathematician's MGP ID of 20249 for the advisor \
+ID.</p>\\n\\n</div><!-- end #paddingWrapper -->\\n\\n  <!-- end #mainContent \
+--></div>\\n\\t<!-- This clearing element should immediately follow the \
+#mainContent div in order to force the #container div to contain all child \
+floats -->\\n</div></div>\\t\\n  <div id=\\\"footer\\\">\\n<ul \
+id=\\\"MenuBar2\\\" class=\\\"MenuBarHorizontal\\\">\\n      <li><a \
+href=\\\"search.php\\\">Search</a>        </li>\\n      <li><a \
+href=\\\"about.php\\\" class=\\\"MenuBarItemSubmenu\\\">About MGP</a>\\n      \
+    <ul>\\n            <li><a href=\\\"mission.php\\\">Mission</a></li>\\n    \
+        <li><a href=\\\"news.php\\\" \
+title=\\\"Announcements\\\">News</a></li>\\n            <li><a \
+href=\\\"staff.php\\\">Staff</a></li>\\n            <li><a \
+href=\\\"recognition.php\\\">Recognition</a></li>\\n            <li><a \
+href=\\\"acknowledgments.php\\\"><span style=\\\"font-size: \
+x-small\\\">Acknowledgments</span></a></li>\\n          </ul>\\n      \
+</li>\\n      <li><a href=\\\"links.php\\\">Links</a></li>\\n      <li><a \
+href=\\\"faq.php\\\" title=\\\"Frequently Asked \
+Questions\\\">FAQs</a></li>\\n      <li><a \
+href=\\\"posters.php\\\">Posters</a></li>\\n      <li><a \
+href=\\\"submit.php\\\">Submit Data</a></li>\\n      <li><a \
+href=\\\"contact.php\\\">Contact</a></li>\\n \\n</ul>\\n<br />\\n<p>The \
+Mathematics Genealogy Project is in need of funds \\nto help pay for student \
+help and other associated costs. If you would like to \\ncontribute, please \
+<a href=\\\"https://epayment.ndus.nodak.edu/C22800_ustores/web/product_detail.\
+jsp?PRODUCTID=2989&amp;SINGLESTORE=true\\\">donate online</a> using credit \
+card or bank transfer or mail  your tax-deductible contribution \
+to:</p>\\n\\n<p>\\nMathematics Genealogy Project<br /> \\nDepartment of \
+Mathematics<br />\\nNorth Dakota State University<br />\\nP. O. Box 6050<br \
+/>\\n  Fargo, North Dakota 58108-6050</p>\\n\\n</div>\\n<!-- end #container \
+--></div>\\n<script type=\\\"text/javascript\\\">\\nvar MenuBar1 = new \
+Spry.Widget.MenuBar(\\\"MenuBar1\\\", \
+{imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\nvar MenuBar2 = \
+new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
+{imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
+imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
+body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
+ CellChangeTimes->{{3.707685356357872*^9, 3.7076853668289766`*^9}, {
+  3.7076853995402136`*^9, 3.7076854550231433`*^9}, {3.7076908593571157`*^9, 
+  3.7076908731248293`*^9}},ExpressionUUID->"9a7357e2-adc1-4d35-a184-\
+86d392fd3f1e"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1140,10 +1378,10 @@ new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
 {imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
 imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
 body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
- CellChangeTimes->{{3.7076186675890923`*^9, 3.7076186781513505`*^9}, {
-  3.7076191297686996`*^9, 3.7076191425643682`*^9}, {3.707649583833104*^9, 
-  3.707649592223298*^9}},ExpressionUUID->"47da3fce-672b-49ea-8e80-\
-ec4a90177f70"]
+ CellChangeTimes->{{3.7076853568679433`*^9, 3.7076853672299204`*^9}, {
+  3.707685399956713*^9, 3.707685455538719*^9}, {3.7076908612115135`*^9, 
+  3.707690873825818*^9}},ExpressionUUID->"8968db63-2c49-4184-bdc4-\
+2848a1d5d4dc"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1402,9 +1640,10 @@ new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
 {imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
 imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
 body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
- CellChangeTimes->{{3.707618668140914*^9, 3.7076186788517494`*^9}, {
-  3.707619130300826*^9, 3.7076191433498383`*^9}, {3.7076495843495255`*^9, 
-  3.7076495928772*^9}},ExpressionUUID->"b2fff3a5-58a9-4861-8c07-7117f141a1e3"]
+ CellChangeTimes->{{3.707685357284454*^9, 3.707685367676179*^9}, {
+  3.707685401203665*^9, 3.707685456115808*^9}, {3.7076908620965595`*^9, 
+  3.707690874726613*^9}},ExpressionUUID->"027eb4d8-0885-4132-9377-\
+1d0922462798"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1636,10 +1875,10 @@ new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
 {imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
 imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
 body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
- CellChangeTimes->{{3.707618668657529*^9, 3.707618679637277*^9}, {
-  3.7076191307550087`*^9, 3.707619143998064*^9}, {3.7076495847661953`*^9, 
-  3.7076495935939713`*^9}},ExpressionUUID->"2b07ef08-0837-4d11-b9f0-\
-1ab049ac2025"]
+ CellChangeTimes->{{3.7076853577164183`*^9, 3.7076853681620245`*^9}, {
+  3.7076854016880107`*^9, 3.7076854566412487`*^9}, {3.7076908626970744`*^9, 
+  3.707690875410985*^9}},ExpressionUUID->"8cd97ead-8fa4-4071-b839-\
+211de2f24ee7"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1917,10 +2156,10 @@ new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
 {imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
 imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
 body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
- CellChangeTimes->{{3.707618669073995*^9, 3.7076186801573925`*^9}, {
-  3.7076191313329363`*^9, 3.7076191445677767`*^9}, {3.707649585151329*^9, 
-  3.707649594094104*^9}},ExpressionUUID->"cd420c1f-773c-4102-952e-\
-b335a78a524b"]
+ CellChangeTimes->{{3.7076853582832117`*^9, 3.707685368540699*^9}, {
+  3.7076854020644894`*^9, 3.707685457026413*^9}, {3.70769086337921*^9, 
+  3.707690876127574*^9}},ExpressionUUID->"b2268299-f8d5-483e-bac6-\
+41c7a94ae1a6"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -2186,10 +2425,10 @@ new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
 {imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
 imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
 body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
- CellChangeTimes->{{3.7076186694430327`*^9, 3.707618680770356*^9}, {
-  3.707619132007228*^9, 3.707619145152603*^9}, {3.7076495855989404`*^9, 
-  3.707649594810484*^9}},ExpressionUUID->"b7cc0b99-a603-46b9-a3f7-\
-88f2fa7a6fa5"]
+ CellChangeTimes->{{3.7076853587475376`*^9, 3.7076853689417963`*^9}, {
+  3.7076854025493813`*^9, 3.7076854574241962`*^9}, {3.707690863929283*^9, 
+  3.707690876674409*^9}},ExpressionUUID->"f42971ed-36f9-45ed-9392-\
+a1712a54f237"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -2439,10 +2678,10 @@ new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
 {imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
 imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
 body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
- CellChangeTimes->{{3.7076186698126965`*^9, 3.707618681270563*^9}, {
-  3.7076191325877414`*^9, 3.7076191458321457`*^9}, {3.7076495860838346`*^9, 
-  3.707649595295848*^9}},ExpressionUUID->"2cbdad43-67b9-4457-8317-\
-add71ce39eb1"]
+ CellChangeTimes->{{3.7076853592854934`*^9, 3.707685369411949*^9}, {
+  3.7076854029497304`*^9, 3.707685457789455*^9}, {3.707690864530592*^9, 
+  3.707690877397624*^9}},ExpressionUUID->"b29e3656-e7d4-487d-84e2-\
+66b99a289338"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -2670,10 +2909,10 @@ new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
 {imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
 imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
 body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
- CellChangeTimes->{{3.707618670081115*^9, 3.7076186818093047`*^9}, {
-  3.7076191331190104`*^9, 3.7076191463110867`*^9}, {3.707649586568777*^9, 
-  3.707649595849412*^9}},ExpressionUUID->"0fe32b44-7699-4ee7-8072-\
-1e83d1b43d33"]
+ CellChangeTimes->{{3.7076853596615314`*^9, 3.707685369891209*^9}, {
+  3.7076854032969356`*^9, 3.7076854581256933`*^9}, {3.707690864985108*^9, 
+  3.7076908779460545`*^9}},ExpressionUUID->"527b36f9-da22-43cb-8988-\
+d7f73cde528a"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -2979,10 +3218,10 @@ new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
 {imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
 imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
 body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
- CellChangeTimes->{{3.7076186703437424`*^9, 3.707618682265788*^9}, {
-  3.7076191335887694`*^9, 3.7076191468874044`*^9}, {3.7076495869848156`*^9, 
-  3.7076495963342204`*^9}},ExpressionUUID->"17eeb038-5f58-48a5-add4-\
-a682b99082df"]
+ CellChangeTimes->{{3.707685360084779*^9, 3.7076853702767005`*^9}, {
+  3.7076854036300383`*^9, 3.707685458452426*^9}, {3.7076908655644355`*^9, 
+  3.707690878831874*^9}},ExpressionUUID->"92640747-13ac-4219-b3ec-\
+f8a50632993f"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -3227,10 +3466,10 @@ new Spry.Widget.MenuBar(\\\"MenuBar2\\\", \
 {imgDown:\\\"SpryAssets/SpryMenuBarDownHover.gif\\\", \
 imgRight:\\\"SpryAssets/SpryMenuBarRightHover.gif\\\"});\\n</script>\\n\\n</\
 body>\\n<!-- InstanceEnd --></html>\"\>"], "Output",
- CellChangeTimes->{{3.7076186708446636`*^9, 3.7076186827259865`*^9}, {
-  3.7076191339894094`*^9, 3.7076191474016333`*^9}, {3.7076495874228525`*^9, 
-  3.707649597267247*^9}},ExpressionUUID->"8cff2317-8886-4363-9026-\
-7e60a1ccbcd6"]
+ CellChangeTimes->{{3.7076853605635443`*^9, 3.7076853707463875`*^9}, {
+  3.7076854039519963`*^9, 3.707685458751638*^9}, {3.707690865987465*^9, 
+  3.7076908793332653`*^9}},ExpressionUUID->"8f5f69ca-05ea-4f34-926e-\
+00c0e611bf84"]
 }, Open  ]]
 },
 WindowSize->{666, 637},
@@ -3254,132 +3493,138 @@ Cell[558, 20, 1574, 34, 107, "Input", "ExpressionUUID" -> \
 Cell[CellGroupData[{
 Cell[2157, 58, 861, 13, 30, "Input", "ExpressionUUID" -> \
 "5c6935c1-f057-4486-b973-c5ee81e30c0f"],
-Cell[3021, 73, 1177, 16, 30, "Output", "ExpressionUUID" -> \
-"245dce05-b9c6-4d18-be4c-efe3ade3938c"]
+Cell[3021, 73, 1328, 18, 30, "Output", "ExpressionUUID" -> \
+"e2cd8932-7a83-4fbf-b2f8-a014d09fcd29"]
 }, Open  ]],
-Cell[4213, 92, 149, 3, 50, "Input", "ExpressionUUID" -> \
+Cell[4364, 94, 149, 3, 50, "Input", "ExpressionUUID" -> \
 "7ae0d067-aef9-4bb3-a306-255953a7d1a6"],
-Cell[4365, 97, 709, 19, 88, "Input", "ExpressionUUID" -> \
+Cell[4516, 99, 709, 19, 88, "Input", "ExpressionUUID" -> \
 "37cf2e21-8a1d-438a-84ce-4595f59d8907"],
 Cell[CellGroupData[{
-Cell[5099, 120, 394, 7, 30, "Input", "ExpressionUUID" -> \
+Cell[5250, 122, 394, 7, 30, "Input", "ExpressionUUID" -> \
 "e222b64d-4874-4e53-89b3-56188b55b86c"],
-Cell[5496, 129, 686, 10, 30, "Output", "ExpressionUUID" -> \
-"4b29d5d4-374d-4185-893d-f036a2b7c54c"]
+Cell[5647, 131, 835, 12, 30, "Output", "ExpressionUUID" -> \
+"79f2f53a-604c-4509-a18c-892a304475cc"]
 }, Open  ]],
-Cell[6197, 142, 149, 3, 50, "Input", "ExpressionUUID" -> \
+Cell[6497, 146, 149, 3, 50, "Input", "ExpressionUUID" -> \
 "3e7a08be-6929-4711-9945-b795e0386146"],
-Cell[6349, 147, 1527, 37, 164, "Input", "ExpressionUUID" -> \
+Cell[6649, 151, 1527, 37, 164, "Input", "ExpressionUUID" -> \
 "d311519c-1942-4758-a2ba-fcb671bfabd5"],
 Cell[CellGroupData[{
-Cell[7901, 188, 518, 8, 30, "Input", "ExpressionUUID" -> \
+Cell[8201, 192, 518, 8, 30, "Input", "ExpressionUUID" -> \
 "fc0471fa-5aeb-474d-bb2b-19d5899c62f4"],
-Cell[8422, 198, 764, 11, 30, "Output", "ExpressionUUID" -> \
-"06f0752b-bb1d-41ad-9c95-f3fd5148892b"]
+Cell[8722, 202, 920, 13, 30, "Output", "ExpressionUUID" -> \
+"9161584c-f602-4d3a-96ca-815a3ba9cc92"]
 }, Open  ]],
-Cell[9201, 212, 147, 3, 50, "Input", "ExpressionUUID" -> \
+Cell[9657, 218, 147, 3, 50, "Input", "ExpressionUUID" -> \
 "d5a76993-3e94-4f92-8485-ac60b021686b"],
-Cell[9351, 217, 1651, 40, 145, "Input", "ExpressionUUID" -> \
+Cell[9807, 223, 1651, 40, 145, "Input", "ExpressionUUID" -> \
 "d02bbe07-955a-4ce4-996e-48ae60058fe5"],
 Cell[CellGroupData[{
-Cell[11027, 261, 735, 11, 30, "Input", "ExpressionUUID" -> \
+Cell[11483, 267, 735, 11, 30, "Input", "ExpressionUUID" -> \
 "75cd69b8-3812-4a29-8b44-cb34a77aa6d5"],
-Cell[11765, 274, 1706, 23, 30, "Output", "ExpressionUUID" -> \
-"8f08bd90-15b2-4304-87af-84da9fb250a3"]
+Cell[12221, 280, 1858, 25, 30, "Output", "ExpressionUUID" -> \
+"45f91b7d-2823-409e-8193-d01081919fbd"]
 }, Open  ]],
-Cell[13486, 300, 147, 3, 50, "Input", "ExpressionUUID" -> \
+Cell[14094, 308, 147, 3, 50, "Input", "ExpressionUUID" -> \
 "db99c440-d943-4fef-8ca8-3dab04f49741"],
-Cell[13636, 305, 1578, 33, 107, "Input", "ExpressionUUID" -> \
+Cell[14244, 313, 1578, 33, 107, "Input", "ExpressionUUID" -> \
 "5c004730-3f0f-4a4e-8aa5-27ca4e245eaf"],
 Cell[CellGroupData[{
-Cell[15239, 342, 926, 14, 30, "Input", "ExpressionUUID" -> \
+Cell[15847, 350, 926, 14, 30, "Input", "ExpressionUUID" -> \
 "3f3db842-769b-46f9-ac2f-3ed52385582d"],
-Cell[16168, 358, 1497, 21, 30, "Output", "ExpressionUUID" -> \
-"d662a748-ad34-4d71-b375-d4eff893a71b"]
+Cell[16776, 366, 1644, 23, 30, "Output", "ExpressionUUID" -> \
+"944b8578-8344-4e81-a7cf-8005307c921d"]
 }, Open  ]],
-Cell[17680, 382, 147, 3, 50, "Input", "ExpressionUUID" -> \
+Cell[18435, 392, 147, 3, 50, "Input", "ExpressionUUID" -> \
 "058b0cf9-b2e5-4566-a460-2eed7da95a50"],
 Cell[CellGroupData[{
-Cell[17852, 389, 1994, 44, 164, "Input", "ExpressionUUID" -> \
+Cell[18607, 399, 2049, 45, 164, "Input", "ExpressionUUID" -> \
 "a16f3670-e42a-49f2-9abb-b9156feb6970"],
-Cell[19849, 435, 1208, 17, 69, "Output", "ExpressionUUID" -> \
-"c05aaf1d-3531-4390-961d-6fde1ffeb62b"]
+Cell[20659, 446, 1362, 18, 50, "Output", "ExpressionUUID" -> \
+"07c11f64-9e47-4d93-9f5d-7abdbdccfb8f"]
 }, Open  ]],
-Cell[21072, 455, 147, 3, 50, "Input", "ExpressionUUID" -> \
+Cell[22036, 467, 147, 3, 50, "Input", "ExpressionUUID" -> \
 "63af47f5-fb80-4afb-9b99-00ef79ccafb0"],
 Cell[CellGroupData[{
-Cell[21244, 462, 2259, 49, 164, "Input", "ExpressionUUID" -> \
+Cell[22208, 474, 2259, 49, 164, "Input", "ExpressionUUID" -> \
 "5d7014c9-5ed0-4f1b-b8d5-a4e037b317a9"],
-Cell[23506, 513, 1213, 17, 30, "Output", "ExpressionUUID" -> \
-"7384793a-9b7b-4607-b0d8-62485553fe1b"]
+Cell[24470, 525, 1367, 19, 30, "Output", "ExpressionUUID" -> \
+"68badec6-3197-402a-a053-bfad67ecc3ca"]
 }, Open  ]],
-Cell[24734, 533, 149, 3, 50, "Input", "ExpressionUUID" -> \
+Cell[25852, 547, 149, 3, 50, "Input", "ExpressionUUID" -> \
 "3209fb44-0a51-4c18-b2d7-e83e5e934f0e"],
 Cell[CellGroupData[{
-Cell[24908, 540, 3497, 69, 278, "Input", "ExpressionUUID" -> \
+Cell[26026, 554, 3497, 69, 278, "Input", "ExpressionUUID" -> \
 "cc4f2620-2606-4a8e-8752-c22a8cbc7071"],
-Cell[28408, 611, 642, 11, 30, "Output", "ExpressionUUID" -> \
-"76ddfd8e-e0ad-41ec-976d-7dd5a8881001"]
+Cell[29526, 625, 794, 13, 30, "Output", "ExpressionUUID" -> \
+"2f61021e-11b8-4fed-8e23-bf105b599ba4"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[29087, 627, 678, 13, 240, "Input", "ExpressionUUID" -> \
+Cell[30357, 643, 678, 13, 240, "Input", "ExpressionUUID" -> \
 "435eb10f-492a-4b5c-89c5-754acc66cf7f"],
-Cell[29768, 642, 14957, 217, 7175, "Output", "ExpressionUUID" -> \
-"43aa03be-eb86-4454-94a1-5292d607f785"]
+Cell[31038, 658, 14957, 217, 7175, "Output", "ExpressionUUID" -> \
+"f1376501-ec87-4110-91d2-884f8fae89a7"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[44762, 864, 318, 8, 50, "Input", "ExpressionUUID" -> \
+Cell[46032, 880, 319, 8, 50, "Input", "ExpressionUUID" -> \
+"eee9d092-4dcf-4c27-b110-f8807eaa235e"],
+Cell[46354, 890, 14381, 207, 6776, "Output", "ExpressionUUID" -> \
+"9a7357e2-adc1-4d35-a184-86d392fd3f1e"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[60772, 1102, 318, 8, 50, "Input", "ExpressionUUID" -> \
 "81646abc-704d-4023-8d68-3ddd0c5dd449"],
-Cell[45083, 874, 18724, 271, 8505, "Output", "ExpressionUUID" -> \
-"47da3fce-672b-49ea-8e80-ec4a90177f70"]
+Cell[61093, 1112, 18722, 271, 8505, "Output", "ExpressionUUID" -> \
+"8968db63-2c49-4184-bdc4-2848a1d5d4dc"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[63844, 1150, 622, 12, 50, "Input", "ExpressionUUID" -> \
+Cell[79852, 1388, 622, 12, 50, "Input", "ExpressionUUID" -> \
 "b8ff5333-680f-4ef8-a5e9-b44bbd47b963"],
-Cell[64469, 1164, 16689, 242, 7840, "Output", "ExpressionUUID" -> \
-"b2fff3a5-58a9-4861-8c07-7117f141a1e3"]
+Cell[80477, 1402, 16689, 243, 7840, "Output", "ExpressionUUID" -> \
+"027eb4d8-0885-4132-9377-1d0922462798"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[81195, 1411, 624, 12, 50, "Input", "ExpressionUUID" -> \
+Cell[97203, 1650, 624, 12, 50, "Input", "ExpressionUUID" -> \
 "f4d05737-b292-4210-9b23-aaddf35e08bb"],
-Cell[81822, 1425, 14955, 216, 7175, "Output", "ExpressionUUID" -> \
-"2b07ef08-0837-4d11-b9f0-1ab049ac2025"]
+Cell[97830, 1664, 14959, 216, 7175, "Output", "ExpressionUUID" -> \
+"8cd97ead-8fa4-4071-b839-211de2f24ee7"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[96814, 1646, 412, 9, 30, "Input", "ExpressionUUID" -> \
+Cell[112826, 1885, 412, 9, 30, "Input", "ExpressionUUID" -> \
 "46af98d8-0ada-478d-b570-80f1f308a362"],
-Cell[97229, 1657, 17977, 265, 8239, "Output", "ExpressionUUID" -> \
-"cd420c1f-773c-4102-952e-b335a78a524b"]
+Cell[113241, 1896, 17974, 265, 8239, "Output", "ExpressionUUID" -> \
+"b2268299-f8d5-483e-bac6-41c7a94ae1a6"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[115243, 1927, 315, 8, 30, "Input", "ExpressionUUID" -> \
+Cell[131252, 2166, 315, 8, 30, "Input", "ExpressionUUID" -> \
 "46191027-f272-4f6d-af27-06a34417986e"],
-Cell[115561, 1937, 17501, 254, 8144, "Output", "ExpressionUUID" -> \
-"b7cc0b99-a603-46b9-a3f7-88f2fa7a6fa5"]
+Cell[131570, 2176, 17505, 254, 8144, "Output", "ExpressionUUID" -> \
+"f42971ed-36f9-45ed-9392-a1712a54f237"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[133099, 2196, 315, 8, 30, "Input", "ExpressionUUID" -> \
+Cell[149112, 2435, 315, 8, 30, "Input", "ExpressionUUID" -> \
 "3f4301d1-0381-480b-bbbd-22b134153d27"],
-Cell[133417, 2206, 16544, 238, 7726, "Output", "ExpressionUUID" -> \
-"2cbdad43-67b9-4457-8317-add71ce39eb1"]
+Cell[149430, 2445, 16540, 238, 7726, "Output", "ExpressionUUID" -> \
+"b29e3656-e7d4-487d-84e2-66b99a289338"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[149998, 2449, 314, 8, 30, "Input", "ExpressionUUID" -> \
+Cell[166007, 2688, 314, 8, 30, "Input", "ExpressionUUID" -> \
 "26a30a0c-3538-47f8-bb29-c6e77e34022b"],
-Cell[150315, 2459, 15002, 216, 7175, "Output", "ExpressionUUID" -> \
-"0fe32b44-7699-4ee7-8072-1e83d1b43d33"]
+Cell[166324, 2698, 15004, 216, 7175, "Output", "ExpressionUUID" -> \
+"527b36f9-da22-43cb-8988-d7f73cde528a"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[165354, 2680, 313, 8, 30, "Input", "ExpressionUUID" -> \
+Cell[181365, 2919, 313, 8, 30, "Input", "ExpressionUUID" -> \
 "cf531174-1367-4cf3-8c21-5d68784f90d0"],
-Cell[165670, 2690, 20133, 294, 9094, "Output", "ExpressionUUID" -> \
-"17eeb038-5f58-48a5-add4-a682b99082df"]
+Cell[181681, 2929, 20129, 294, 9094, "Output", "ExpressionUUID" -> \
+"92640747-13ac-4219-b3ec-f8a50632993f"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[185840, 2989, 308, 8, 30, "Input", "ExpressionUUID" -> \
+Cell[201847, 3228, 308, 8, 30, "Input", "ExpressionUUID" -> \
 "658ab87c-a8dd-4260-b71e-6f939d83020b"],
-Cell[186151, 2999, 16036, 233, 7517, "Output", "ExpressionUUID" -> \
-"8cff2317-8886-4363-9026-7e60a1ccbcd6"]
+Cell[202158, 3238, 16034, 233, 7517, "Output", "ExpressionUUID" -> \
+"8f5f69ca-05ea-4f34-926e-00c0e611bf84"]
 }, Open  ]]
 }
 ]

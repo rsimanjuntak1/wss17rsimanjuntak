@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     12703,        295]
-NotebookOptionsPosition[     12159,        275]
-NotebookOutlinePosition[     12502,        290]
-CellTagsIndexPosition[     12459,        287]
+NotebookDataLength[     13730,        309]
+NotebookOptionsPosition[     13186,        289]
+NotebookOutlinePosition[     13528,        304]
+CellTagsIndexPosition[     13485,        301]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -24,12 +24,14 @@ Cell[BoxData[
   RowBox[{"Module", "[", "\[IndentingNewLine]", 
    RowBox[{
     RowBox[{"{", 
-     RowBox[{"data", "=", 
-      RowBox[{"Import", "[", 
-       RowBox[{
-        RowBox[{"\"\<https://genealogy.math.ndsu.nodak.edu/id.php?id=\>\"", "<>", 
-         RowBox[{"ToString", "[", "id", "]"}]}], ",", "\"\<Source\>\""}], 
-       "]"}]}], "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{
+      RowBox[{"data", "=", 
+       RowBox[{"Import", "[", 
+        RowBox[{
+         RowBox[{"\"\<https://genealogy.math.ndsu.nodak.edu/id.php?id=\>\"", "<>", 
+          RowBox[{"ToString", "[", "id", "]"}]}], ",", "\"\<Source\>\""}], 
+        "]"}]}], ",", "stringList", ",", "i", ",", "numberPartition"}], "}"}],
+     ",", "\[IndentingNewLine]", 
     RowBox[{"If", "[", 
      RowBox[{
       RowBox[{
@@ -61,12 +63,12 @@ Cell[BoxData[
              RowBox[{"Missing", "[", "]"}]}], ",", " ", 
             RowBox[{"\"\<Advisor\>\"", "\[Rule]", " ", 
              RowBox[{"Missing", "[", "]"}]}]}], "|>"}], "\[IndentingNewLine]",
-           "\t\t\t\t\t      ", "}"}]}]}], "\[IndentingNewLine]", "|>"}], ",", 
+           "}"}]}]}], "\[IndentingNewLine]", "|>"}], ",", 
       "\[IndentingNewLine]", 
       RowBox[{
        RowBox[{"stringList", "=", 
         RowBox[{"StringSplit", "[", 
-         RowBox[{"data", ",", "\"\<Dissertation\>\""}], "]"}]}], ";", 
+         RowBox[{"data", ",", "\"\<Dissertation:\>\""}], "]"}]}], ";", 
        "\[IndentingNewLine]", 
        RowBox[{"numberPartition", "=", 
         RowBox[{"stringList", "//", "Length"}]}], ";", " ", 
@@ -196,6 +198,7 @@ Cell[BoxData[
              "\[IndentingNewLine]", 
              RowBox[{"i", "++"}], ";"}]}], "\[IndentingNewLine]", "]"}]}]}], 
         "\[IndentingNewLine]", "]"}], ";", "\[IndentingNewLine]", 
+       "\[IndentingNewLine]", 
        RowBox[{"<|", 
         RowBox[{
          RowBox[{"\"\<ID\>\"", "\[Rule]", " ", "id"}], ",", " ", 
@@ -226,55 +229,66 @@ Cell[BoxData[
               RowBox[{"i", "-", "2"}]}], "]"}]}], "]"}]}]}], "|>"}]}]}], 
      "\[IndentingNewLine]", "]"}]}], "\[IndentingNewLine]", "]"}]}]], "Input",
  CellChangeTimes->{{3.7076174705241547`*^9, 3.7076174919371986`*^9}, {
-  3.707618120022937*^9, 3.707618124866312*^9}, {3.7076181568783884`*^9, 
-  3.7076181944112244`*^9}, {3.7076182296117353`*^9, 3.7076182300429153`*^9}, {
-  3.7076190243724546`*^9, 3.707619029660621*^9}, {3.7076226501742516`*^9, 
-  3.707622652289843*^9}},ExpressionUUID->"0b074dbc-3d26-4054-ac0d-\
+   3.707618120022937*^9, 3.707618124866312*^9}, {3.7076181568783884`*^9, 
+   3.7076181944112244`*^9}, {3.7076182296117353`*^9, 
+   3.7076182300429153`*^9}, {3.7076190243724546`*^9, 3.707619029660621*^9}, {
+   3.7076226501742516`*^9, 3.707622652289843*^9}, {3.707674677271428*^9, 
+   3.707674704435296*^9}, {3.7076750653129625`*^9, 3.707675065828336*^9}, {
+   3.707675239097639*^9, 3.7076752720867405`*^9}, {3.7076753230171814`*^9, 
+   3.7076754469144773`*^9}, {3.7076755974691825`*^9, 3.707675648816017*^9}, {
+   3.7076756816243887`*^9, 3.70767569410271*^9}, {3.7076757360272336`*^9, 
+   3.7076757442768383`*^9}, {3.7076759284272695`*^9, 3.707675947455347*^9}, {
+   3.7076762452878532`*^9, 3.707676245763897*^9}, {3.7076763196201324`*^9, 
+   3.7076763222618136`*^9}, {3.7076763609780226`*^9, 
+   3.7076764637378683`*^9}, {3.707676545428235*^9, 3.707676571615595*^9}, {
+   3.707676615635987*^9, 3.7076766189149694`*^9}, {3.707676790325088*^9, 
+   3.7076767969438305`*^9}, 3.707676855268238*^9, 3.707676984145423*^9, 
+   3.707677123548028*^9, {3.7076772834945374`*^9, 3.707677347332137*^9}, 
+   3.7076856848383064`*^9},ExpressionUUID->"0b074dbc-3d26-4054-ac0d-\
 3532f57b4992"],
 
 Cell[CellGroupData[{
 
 Cell[BoxData[
- RowBox[{
-  RowBox[{"getAssoc", "[", "782", "]"}], "//", "AbsoluteTiming"}]], "Input",
+ RowBox[{"getAssoc", "[", "20249", "]"}]], "Input",
  CellChangeTimes->{{3.7076195384951725`*^9, 3.7076195622891006`*^9}, {
-  3.7076225825252657`*^9, 
-  3.7076225831564198`*^9}},ExpressionUUID->"565e4001-a733-4ff4-bebc-\
+   3.7076225825252657`*^9, 3.7076225831564198`*^9}, {3.707673803680777*^9, 
+   3.7076738080143337`*^9}, 3.707674481594385*^9, 3.7076746520928965`*^9, {
+   3.707674848271064*^9, 3.7076748617911353`*^9}, 3.7076750755721655`*^9, 
+   3.7076752953297987`*^9, {3.707675487819795*^9, 3.707675494605672*^9}, {
+   3.707676198943149*^9, 
+   3.707676223350293*^9}},ExpressionUUID->"565e4001-a733-4ff4-bebc-\
 4456e552e2b1"],
 
 Cell[BoxData[
- RowBox[{"{", 
-  RowBox[{"0.6792211568890751`", ",", 
-   RowBox[{"\[LeftAssociation]", 
-    RowBox[{
-     RowBox[{"\<\"ID\"\>", "\[Rule]", "782"}], ",", 
-     RowBox[{"\<\"Name\"\>", 
-      "\[Rule]", "\<\"Ernst Leonard Lindel\[ODoubleDot]f\"\>"}], ",", 
-     RowBox[{"\<\"Personal Information\"\>", "\[Rule]", 
-      RowBox[{"{", 
-       RowBox[{"\[LeftAssociation]", 
-        RowBox[{
-         RowBox[{"\<\"Title\"\>", "\[Rule]", "\<\"Ph.D.\"\>"}], ",", 
-         RowBox[{"\<\"Institution\"\>", 
-          "\[Rule]", "\<\"Helsingin yliopisto\"\>"}], ",", 
-         RowBox[{"\<\"Year\"\>", "\[Rule]", "\<\"1893\"\>"}], ",", 
-         RowBox[{"\<\"Country\"\>", "\[Rule]", "\<\"Finland\"\>"}], ",", 
-         RowBox[{"\<\"Dissertation\"\>", 
-          "\[Rule]", "\<\"Sur les syst&egrave;mes complets et le calcul des \
-invariants diff&eacute;rentiels des groupes continus finis\"\>"}], ",", 
-         RowBox[{"\<\"Subject\"\>", "\[Rule]", 
-          RowBox[{"Missing", "[", "]"}]}], ",", 
-         RowBox[{"\<\"Advisor\"\>", "\[Rule]", 
-          RowBox[{"{", "\<\"143865\"\>", "}"}]}]}], "\[RightAssociation]"}], 
-       "}"}]}]}], "\[RightAssociation]"}]}], "}"}]], "Output",
- CellChangeTimes->{{3.7076195470461707`*^9, 3.707619563305712*^9}, 
-   3.707622584632268*^9, 3.70762277495545*^9, 
-   3.7076486430184937`*^9},ExpressionUUID->"b69c5ddc-1305-46f2-9516-\
-25c07dda2896"]
+ RowBox[{"\[LeftAssociation]", 
+  RowBox[{
+   RowBox[{"\<\"ID\"\>", "\[Rule]", "20249"}], ",", 
+   RowBox[{"\<\"Name\"\>", "\[Rule]", "\<\"Paul Winton Spikes\"\>"}], ",", 
+   RowBox[{"\<\"Personal Information\"\>", "\[Rule]", 
+    RowBox[{"{", 
+     RowBox[{"\[LeftAssociation]", 
+      RowBox[{
+       RowBox[{"\<\"Title\"\>", "\[Rule]", "\<\"Ph.D.\"\>"}], ",", 
+       RowBox[{"\<\"Institution\"\>", 
+        "\[Rule]", "\<\"Auburn University\"\>"}], ",", 
+       RowBox[{"\<\"Year\"\>", "\[Rule]", "\<\"1970\"\>"}], ",", 
+       RowBox[{"\<\"Country\"\>", "\[Rule]", "\<\"UnitedStates\"\>"}], ",", 
+       RowBox[{"\<\"Dissertation\"\>", 
+        "\[Rule]", "\<\"Behavior of the Solutions of the differntial Equation \
+Y'' Plus QY('P)=R Dissertation Abstract for Equation***\"\>"}], ",", 
+       RowBox[{"\<\"Subject\"\>", "\[Rule]", 
+        RowBox[{"Missing", "[", "]"}]}], ",", 
+       RowBox[{"\<\"Advisor\"\>", "\[Rule]", 
+        RowBox[{"{", "\<\"18118\"\>", "}"}]}]}], "\[RightAssociation]"}], 
+     "}"}]}]}], "\[RightAssociation]"}]], "Output",
+ CellChangeTimes->{3.707685694204836*^9, 
+  3.7076908968074865`*^9},ExpressionUUID->"11bb2de0-c443-4ad9-95e2-\
+dce4a956d46f"]
 }, Open  ]]
 },
-WindowSize->{661, 637},
-WindowMargins->{{Automatic, -63}, {Automatic, 4}},
+WindowSize->{608, 637},
+WindowMargins->{{Automatic, -4}, {Automatic, 0}},
 FrontEndVersion->"11.1 for Microsoft Windows (64-bit) (March 13, 2017)",
 StyleDefinitions->"Default.nb"
 ]
@@ -289,13 +303,13 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[558, 20, 9882, 212, 1038, "Input", "ExpressionUUID" -> \
+Cell[558, 20, 10839, 227, 1076, "Input", "ExpressionUUID" -> \
 "0b074dbc-3d26-4054-ac0d-3532f57b4992"],
 Cell[CellGroupData[{
-Cell[10465, 236, 283, 6, 30, "Input", "ExpressionUUID" -> \
+Cell[11422, 251, 548, 9, 30, "Input", "ExpressionUUID" -> \
 "565e4001-a733-4ff4-bebc-4456e552e2b1"],
-Cell[10751, 244, 1392, 28, 126, "Output", "ExpressionUUID" -> \
-"b69c5ddc-1305-46f2-9516-25c07dda2896"]
+Cell[11973, 262, 1197, 24, 126, "Output", "ExpressionUUID" -> \
+"11bb2de0-c443-4ad9-95e2-dce4a956d46f"]
 }, Open  ]]
 }
 ]
